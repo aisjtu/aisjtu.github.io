@@ -1,10 +1,10 @@
-## Welcome to SJTU-AI Undergraduate Course
+## SJTU-AI Undergraduate Course
 
 > 真正自由的人只想他能够得到的东西，只做他喜欢做的事情，这就是我的第一基本原理。——卢梭《爱弥儿》
 
-### 本站简介
+### 关于本站及其创建者（Introduction）
 
-建立该网站的灵感来自于上海交通大学IEEE专业课程网站：[ieee.icu](ieee.icu).
+
 
 ```markdown
 Syntax highlighted code block
@@ -24,12 +24,22 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### 关于本站的创建者
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anyeZHY/ai-sjtu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+本站欢迎一切形式、不论大小的贡献！:blush:
+
+你可以：
+
+进入本站的 [Github 仓库](https://github.com/anyeZHY/ai-sjtu.github.io)，以 Pull Request 的方式，提交你对本站内容的改进。
+
+或直接与我联系：
+
+**Email: anye_zhen[at]sjtu[dot]edu[dot]cn**
+
+
+
+### Acknowledgement
+
+建立该网站的灵感来自于上海交通大学IEEE专业课程网站：[ieee.icu](ieee.icu).
+
+同时感谢上海交通大学的所有相关任课教师及助教，因为我的课程笔记等资源或多或少总结自他们的课程及slides.
