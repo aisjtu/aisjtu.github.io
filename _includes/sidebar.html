@@ -1,0 +1,52 @@
+<div class="sidebar-item sidebar-header">
+	<div class='sidebar-brand'>
+		<a href="/about/">{{ site.title }}</a>
+	</div>
+	<p class="lead">{{ site.description }}</p>
+	{%- if social.github -%}
+		<a rel="me" href="https://github.com/{{ social.github | cgi_escape | escape }}" title="{{ social.github | escape }}">
+			<svg class="svg-icon grey">
+				<use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}" />
+			</svg></a></li>
+	{%- endif -%}
+</div>
+
+<div class="sidebar-item sidebar-nav">
+	<ul class="nav">
+      <li class="nav-title">Pages</li>
+	  <li>
+	  	<a class="nav-item" href="/">Articles</a>
+	  </li>
+	  {% assign pages_list = site.pages %}
+	  {% for node in pages_list %}
+	    {% if node.title != null %}
+	      {% if node.layout == "page" %}
+	        <li>
+	        	<a class="nav-item" href="{{ node.url }}">
+	            	{{ node.title }}
+	            </a>
+	        </li>
+	      {% endif %}
+	    {% endif %}
+	  {% endfor %}
+	</ul>
+</div>
+
+<div class="sidebar-item sidebar-nav">
+  	<ul class="nav">
+			<li class="nav-title">Categories</li>
+	    {% for category in site.categories %}
+	    <li>
+	    	<a class="nav-item" href="{{ root_url }}/{{ site.category_dir }}#{{ category | first }}">
+				<span class="name">{{ category | first }}</span>
+				<span class="badge">{{ category | last | size }}</span>
+	    	</a>
+ 		</li>
+	    {% endfor %}
+	  </nav>
+	</ul>
+</div>
+
+<div class="sidebar-item sidebar-footer">
+	<p>Powered by <a href="https://github.com/jekyll/jekyll">Jekyll</a></p>
+</div>
