@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to SJTU-AI Undergraduate Course
 
-> ——卢梭《爱弥儿》
+> 真正自由的人只想他能够得到的东西，只做他喜欢做的事情，这就是我的第一基本原理。——卢梭《爱弥儿》
 
-### Markdown
+### 本站简介
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+建立该网站的灵感来自于上海交通大学IEEE专业课程网站：[ieee.icu](ieee.icu).
 
 ```markdown
 Syntax highlighted code block
@@ -26,7 +26,7 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### 关于本站的创建者
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anyeZHY/ai-sjtu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
