@@ -1,24 +1,24 @@
-repository: tomjoht/documentation-theme-jekyll
+repository: anyeZHY/ai-sjtu.github.io
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Jekyll Documentation Theme
+topnav_title: SJTU-AI
 # this appears on the top navigation bar next to the home button
 
 site_title: Jekyll theme for documentation
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Copyright 2021 Google LLC
+# company_name: Copyright 2021 Google LLC
 # this appears in the footer
 
-github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
+github_editme_path: anyeZHY/ai-sjtu.github.io
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
 # if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-google_analytics: UA-66296557-1
+google_analytics:
 # if you have google-analytics ID, put it in. if not, edit this value to blank.
 
 host: 127.0.0.1
@@ -33,9 +33,9 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: SJTU-AI
 
-feedback_email: tomjoht@gmail.com
+feedback_email: anye_zhen@sjtu.edu.cn
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
