@@ -51,3 +51,5 @@ Acknowledgement
 建立该网站的灵感来自于上海交通大学IEEE专业课程网站：[ieee.icu](ieee.icu).
 
 同时感谢上海交通大学的所有相关任课教师及助教，因为我的课程笔记等资源或多或少总结自他们的课程及slides.
+
+该网站基于github pages建立，采用了
