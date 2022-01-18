@@ -5,8 +5,8 @@ layout: home
 
 > 真正自由的人只想他能够得到的东西，只做他喜欢做的事情，这就是我的第一基本原理。——卢梭《爱弥儿》
 
-关于本站及其创建者（Introduction）
--------------
+### 关于本站及其创建者（Introduction）
+
 
 ```markdown
 Syntax highlighted code block
@@ -26,8 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-Support or Contact
--------------
+### Support or Contact
 
 本站欢迎一切形式、不论大小的贡献！:blush:
 
@@ -41,11 +40,11 @@ Support or Contact
 
 
 
-Acknowledgement
--------------
+### Acknowledgement
+
 
 建立该网站的灵感来自于上海交通大学IEEE专业课程网站：[ieee.icu](ieee.icu).
 
-同时感谢上海交通大学的所有相关任课教师及助教，因为我的课程笔记等资源或多或少总结自他们的课程及slides.
+该网站基于 [GitHub Pages](https://pages.github.com) 建立，同时使用 [Jekyll](https://jekyllrb.com) 将“.md”文件渲染生成对应的HTML。我应用了 Tao He 所设计的主题 [git-book](https://github.com/sighingnow/jekyll-gitbook)。
 
-该网站基于github pages建立，采用了
+最后感谢上海交通大学的所有相关任课教师及助教，因为我的课程笔记等资源或多或少总结自他们的课程及slides.
