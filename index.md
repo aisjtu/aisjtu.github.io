@@ -34,8 +34,8 @@ summary: "真正自由的人只想他能够得到的东西，只做他喜欢做�
 
 建立该网站的灵感来自于上海交通大学IEEE专业课程网站：[ieee.icu](ieee.icu).
 
-该网站基于 [GitHub Pages](https://pages.github.com) 建立，同时使用 [Jekyll](https://jekyllrb.com) 将“.md”文件渲染生成对应的HTML。
+该网站基于 [GitHub Pages](https://pages.github.com) 建立，同时使用 [Jekyll](https://jekyllrb.com) 将“.md”文件渲染生成对应的HTML. 模版来源于[documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll).
 
 感谢上海交通大学的所有相关任课教师及助教，因为我的课程笔记等资源或多或少总结自他们的课程及slides.
 
-最后特别感谢高中母校北京市十一学校，是她让我萌生了
+最后特别感谢高中母校**北京市十一学校**赋予我理想，不断完善该网站内容。
