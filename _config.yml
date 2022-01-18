@@ -74,6 +74,7 @@ defaults:
       comments: true
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
+      hide_sidebar: true
       sidebar: home_sidebar
       topnav: topnav
   -
