@@ -1,14 +1,14 @@
 ---
+title: SJTU-AI Undergraduate Course
 layout: home
 ---
-
-## SJTU-AI Undergraduate Course
 
 > 真正自由的人只想他能够得到的东西，只做他喜欢做的事情，这就是我的第一基本原理。——卢梭《爱弥儿》
 
 
 
-### 关于本站及其创建者（Introduction）
+关于本站及其创建者（Introduction）
+-------------
 
 
 
@@ -30,7 +30,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### Support or Contact
+Support or Contact
+-------------
 
 本站欢迎一切形式、不论大小的贡献！:blush:
 
@@ -44,7 +45,8 @@ Syntax highlighted code block
 
 
 
-### Acknowledgement
+Acknowledgement
+-------------
 
 建立该网站的灵感来自于上海交通大学IEEE专业课程网站：[ieee.icu](ieee.icu).
 
