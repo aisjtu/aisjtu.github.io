@@ -21,11 +21,11 @@ summary: "真正自由的人只想他能够得到的东西，只做他喜欢做�
 
 你可以：
 
-进入本站的 [Github 仓库](https://github.com/anyeZHY/ai-sjtu.github.io)，以 Pull Request 的方式，提交你对本站内容的改进。
+- 进入本站的 [Github 仓库](https://github.com/anyeZHY/ai-sjtu.github.io)，以 Pull Request 的方式，提交你对本站内容的改进。
 
-或直接与我联系：
+- **点击**页面中 *Table of Contents* 下方 *Edit me* 按钮直接对本页定位，进行更快捷的编辑。
 
-**Email: anye_zhen[at]sjtu[dot]edu[dot]cn**
+- 或直接与我联系，我的**Email: anye_zhen[at]sjtu[dot]edu[dot]cn**
 
 
 
