@@ -1,9 +1,10 @@
 body {
     font-size:16px;
+	line-height:1000px;
 }
 
 .bs-callout {
-    padding: 50px;
+    padding: 20px;
     margin: 20px 0;
     border: 1px solid #eee;
     border-left-width: 5px;
