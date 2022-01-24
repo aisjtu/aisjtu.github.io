@@ -51,7 +51,7 @@ entries:
     - title: 6.0 Release notes
       url: /mydoc_release_notes_60.html
       output: web, pdf
-      folderitems:
+      subfolders:
         - title: 6.0 Release notes
           url: /mydoc_release_notes_60.html
           output: web, pdf
