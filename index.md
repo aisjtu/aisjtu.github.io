@@ -22,7 +22,8 @@ summary: "真正自由的人只想他能够得到的东西，只做他喜欢做�
 
 值得说明的是，不同人的学习方法不尽相同，我更希望该网站的创立能够帮助到后来者发现属于自己的学习方法（~~找到自己的交大AI专业生存指南~~）。
 
-{% include note.html content="该网站不仅仅收录了我以“.pdf”为格式的笔记 (Lecture Notes)，同时还有与之对应的“.tex”源文件、基于[Notability](https://notability.com/zh-Hans)的“.note”格式文件或者基于[GoodNotes](https://www.goodnotes.com)的“.gn”格式文件。" %}
+
+{% include callout.html content="该网站不仅仅收录了我以“.pdf”为格式的笔记 (Lecture Notes)，同时还有与之对应的“.tex”源文件、基于[Notability](https://notability.com/zh-Hans)的“.note”格式文件或者基于[GoodNotes](https://www.goodnotes.com)的“.gn”格式文件。" type="primary" %} 
 
 ## Support or Contact（支持或联系我）
 
