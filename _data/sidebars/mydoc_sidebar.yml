@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
+  product: SJTU-AI Undergraduate Course
+  version: 1.0
   folders:
 
   - title:
@@ -23,7 +23,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Get started
+    - title: 首页
       url: /index.html
       output: web, pdf
       type: homepage
