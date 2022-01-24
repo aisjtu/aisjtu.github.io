@@ -7,15 +7,26 @@ permalink: index.html
 summary: "真正自由的人只想他能够得到的东西，只做他喜欢做的事情，这就是我的第一基本原理。——卢梭《爱弥儿》"
 ---
 
-## Introduction（关于本站及其创建者）
+## Introduction（关于本站）
 
-上海交通大学人工智能专业设立于2019年，专业之新导致了培养计划出现了或多或少的混乱。
+上海交通大学人工智能专业设立于2019年，“专业之新”导致了培养计划出现了或多或少的混乱。
 
-而我（一位来自20级AI专业的学生）恰巧是一个对**教育领域**“锱铢必较的“完美主义者”。意识到是时没有一个平台能够帮助AI专业学生交流课程、分享学习资料，我决定将我的部分**课程评价**、**课程笔记**以及**复习笔记**公开分享于此。我也因而希望该网站能够为今后人工智能专业的学生提供不同课程的学习方法（比如：该门课程是否值得选修？是否应该被翘掉自学？该类学科的知识体系是什么？）
+而我（该网站的创建者，一位来自20级AI专业的学生）恰巧是一个对**教育领域**“锱铢必较的“完美主义者”。意识到是时没有一个平台能够帮助AI专业学生交流课程、分享学习资料，我决定将我的部分**课程评价**、**课程笔记**以及**复习笔记**公开分享于此。
 
-我从大一开始便翘掉了大量的课以自学，这些可包括但不限于：线性代数、数学分析、大学物理、线性优化与凸优化等等。
+因此，我希望该网站能够为今后人工智能专业的学生提供丰富的课程信息，比如：
 
-## Support or Contact
+1. 该门课程是否值得选修？
+2. 是否应该~~翘掉课程以~~自学？
+3. 该类学科的知识体系是什么？
+4. 能否获得一些学长学姐的课程笔记、复习笔记？
+
+值得说明的是，不同人的学习方法不尽相同，我更希望该网站的创立能够帮助到后来者发现属于自己的学习方法（~~找到自己的交大AI专业生存指南~~）。
+
+```
+{% include callout.html content="**注**: <br/><br/>Here I am starting a new paragraph, because I have lots of information to share. You may wonder why I'm using line breaks instead of paragraph tags. This is because Kramdown processes the Markdown here as a span rather than a div (for whatever reason). Be grateful that you can be using Markdown at all inside of HTML. That's usually not allowed in Markdown syntax, but it's allowed here." type="primary" %} 
+```
+
+## Support or Contact（支持或联系我）
 
 本站欢迎一切形式、不论大小的贡献！
 
@@ -25,11 +36,11 @@ summary: "真正自由的人只想他能够得到的东西，只做他喜欢做�
 
 - **点击**页面中 *Table of Contents* 下方 *Edit me* 按钮直接对本页定位，进行更快捷的编辑。
 
-- 或直接与我联系，我的**Email: anye_zhen[at]sjtu[dot]edu[dot]cn**
+- 直接与我联系，我的**Email: anye_zhen[at]sjtu[dot]edu[dot]cn**（可以点击页面上方*“我的邮箱”*键快速发送邮件）。
 
 
 
-## Acknowledgement
+## Acknowledgement（致谢）
 
 
 建立该网站的灵感来自于上海交通大学IEEE专业课程网站：[ieee.icu](https://ieee.icu/#/).
