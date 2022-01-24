@@ -32,7 +32,7 @@ summary: "真正自由的人只想他能够得到的东西，只做他喜欢做�
 ## Acknowledgement
 
 
-建立该网站的灵感来自于上海交通大学IEEE专业课程网站：[ieee.icu](ieee.icu).
+建立该网站的灵感来自于上海交通大学IEEE专业课程网站：[ieee.icu](https://ieee.icu/#/).
 
 该网站基于 [GitHub Pages](https://pages.github.com) 建立，同时使用 [Jekyll](https://jekyllrb.com) 将“.md”文件渲染生成对应的HTML. 模版来源于[documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll).
 
