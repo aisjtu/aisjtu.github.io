@@ -19,7 +19,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: 总览
     output: web, pdf
     folderitems:
 
@@ -28,15 +28,15 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Introduction
+    - title: 我的理念
       url: /mydoc_introduction.html
       output: web, pdf
 
-    - title: Supported features
+    - title: 网站功能及文档格式说明
       url: /mydoc_supported_features.html
       output: web, pdf
 
-    - title: About the theme author
+    - title: MacVim配置（）
       url: /mydoc_about.html
       output: web, pdf
 
@@ -44,7 +44,7 @@ entries:
       url: /mydoc_support.html
       output: web, pdf
 
-  - title: Release Notes
+  - title: 大一课程
     output: web, pdf
     folderitems:
 
@@ -56,7 +56,7 @@ entries:
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
-  - title: Installation
+  - title: 大二课程
     output: web, pdf
     folderitems:
 
@@ -72,7 +72,7 @@ entries:
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
 
-  - title: Authoring
+  - title: 大三课程
     output: web, pdf
 
     folderitems:
@@ -108,7 +108,7 @@ entries:
       url: /mydoc_atom_text_editor.html
       output: web, pdf
 
-  - title: Navigation
+  - title: 大四课程
     output: web, pdf
 
     folderitems:
