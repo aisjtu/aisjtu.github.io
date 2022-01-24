@@ -36,7 +36,7 @@ entries:
       url: /mydoc_supported_features.html
       output: web, pdf
 
-    - title: MacVim配置（）
+    - title: 我的Vim-Tex配置（有趣的题外话）
       url: /mydoc_about.html
       output: web, pdf
 
