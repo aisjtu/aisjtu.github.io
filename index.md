@@ -22,9 +22,7 @@ summary: "真正自由的人只想他能够得到的东西，只做他喜欢做�
 
 值得说明的是，不同人的学习方法不尽相同，我更希望该网站的创立能够帮助到后来者发现属于自己的学习方法（~~找到自己的交大AI专业生存指南~~）。
 
-```
-{% include callout.html content="**注**: <br/><br/>Here I am starting a new paragraph, because I have lots of information to share. You may wonder why I'm using line breaks instead of paragraph tags. This is because Kramdown processes the Markdown here as a span rather than a div (for whatever reason). Be grateful that you can be using Markdown at all inside of HTML. That's usually not allowed in Markdown syntax, but it's allowed here." type="primary" %} 
-```
+{% include note.html content="This is my note." %}
 
 ## Support or Contact（支持或联系我）
 
