@@ -1,0 +1,86 @@
+%! Tex program = xelatex
+\documentclass{article}
+%中文
+%\usepackage[UTF8]{ctex}
+%数学公式
+\usepackage{amsmath,amssymb}
+%\usepackage{ntheorem}
+\usepackage{mdframed} %公式框1
+% e.g., \newmdtheoremenv{theorem}{Theorem}
+\usepackage{amsthm}
+%边界
+\usepackage[letterpaper,top=1cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}%table package
+%Table
+\usepackage{multirow,booktabs}
+\usepackage{makecell}
+%字体颜色
+\usepackage{color}
+\usepackage[dvipsnames]{xcolor}  % 更全的色系
+%代码
+\usepackage[OT1]{fontenc}
+% MATLAB 代码风格
+%\usepackage[framed,numbered,autolinebreaks,useliterate]{/Users/anye_zhenhaoyu/Desktop/Latex/mcode}
+\usepackage{listings}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{pythonhighlight} % Python
+%插图
+\usepackage{graphicx}
+%改变item格式
+\usepackage{enumerate}
+%物理
+\usepackage{physics}
+%extra arrows
+\usepackage{extarrows}
+% caption（居中指令）
+%\usepackage[justification=centering]{caption}
+\usepackage{caption}
+% htpb
+\usepackage{stfloats}
+% pdf 拼接
+\usepackage{pdfpages}
+% 超链接url
+\usepackage{url}
+
+
+% --------------definations-------------- %
+\def\b#1{\boldsymbol{#1}}
+\def\*#1{\mathbf{#1}}
+\def\+#1{\mathcal{#1}} 
+\def\-#1{\mathrm{#1}}
+\def\=#1{\mathbb{#1}}
+\def\!#1{\mathtt{#1}}
+\def\^#1{\mathsf{#1}}
+\newcommand{\inner}[2]{\langle #1,#2\rangle} 
+\renewcommand{\mid}{\;\middle\vert\;} 
+\newcommand{\cmid}{\,:\,}
+\newcommand{\numP}{\#\mathbf{P}} 
+\renewcommand{\P}{\mathbf{P}}
+\newcommand{\defeq}{\triangleq}
+\newcommand{\Var}[2][]{\mathbf{Var}_{#1}\left[#2\right]}
+\newcommand{\E}[2][]{\mathbf{E}_{#1}\left[#2\right]}
+\renewcommand{\emptyset}{\varnothing}
+\newcommand{\ol}{\overline}
+\newcommand{\argmin}{\mathop{\arg\min}}
+\newcommand{\argmax}{\mathop{\arg\max}}
+
+\def\Esolve{\textcolor{blue}{Solve: }}
+\def\Eproof{\textcolor{blue}{Proof: }}
+\def\case#1{\textcolor{blue}{Case \uppercase\expandafter{\romannumeral#1}: }}
+
+\newmdtheoremenv{lemma}{Lemma}
+\newmdtheoremenv{theorem}{\textcolor{red}{Theorem}}
+\newmdtheoremenv{defi}{\textcolor{blue}{Definition}}
+
+\newenvironment{md}{\begin{mdframed}}{\end{mdframed}}
+
+\graphicspath{{figures/}}
+
+\begin{document}
+\title{<++>}
+\author{Zhen}
+\maketitle
+
+
+\end{document}
+
