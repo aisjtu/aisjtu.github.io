@@ -47,7 +47,11 @@ entries:
   - title: 大一课程
     output: web, pdf
     folderitems:
-
+    
+    - title: 大一课程总览
+      url: /mydoc_tag_archives_overview.html
+      output: web
+      
       subfolders:
       - title: 大一上课程
         output: web
