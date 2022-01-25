@@ -33,7 +33,7 @@ entries:
       output: web, pdf
 
     - title: 网站功能及文档格式说明
-      url: /mydoc_mydoc_more_information.html
+      url: /mydoc_more_information.html
       output: web, pdf
 
     - title: 我的Vim-Tex配置（有趣的题外话）
