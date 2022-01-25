@@ -42,7 +42,6 @@ entries:
 
   - title: 大一课程
     output: web, pdf
-    url:
 
   - title: 大二课程
     output: web, pdf
