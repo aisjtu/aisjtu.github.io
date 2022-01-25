@@ -9,4 +9,4 @@ folder: mydoc
 
 
 
-这里是vim-tex配置。
+Updating.........
