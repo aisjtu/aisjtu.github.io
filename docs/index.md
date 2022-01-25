@@ -49,7 +49,9 @@ permalink: index.html
 
 该网站基于 [GitHub Pages](https://pages.github.com) 建立，同时使用 [Jekyll](https://jekyllrb.com) 将“.md”文件渲染生成对应的HTML. 
 
-<span class="label label-danger">特别地</span> 该模版来源于[documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll).
+<span class="label label-danger">特别地</span>
+
+该模版来源于[documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll).
 
 感谢上海交通大学的所有相关任课教师及助教，因为我的课程笔记等资源或多或少总结自他们的课程及slides.
 
