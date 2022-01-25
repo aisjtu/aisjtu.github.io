@@ -3,9 +3,8 @@ title: Workflow maps
 tags: [formatting]
 keywords: release notes, announcements, what's new, new features
 last_updated: July 16, 2016
-summary: "Version 6.0 of the Documentation theme for Jekyll reverts back to relative links so you can view the files offline. Additionally, you can store pages in subdirectories. Templates for alerts and images are available."
 sidebar: mydoc_sidebar
-permalink: mydoc_workflow_maps.html
+permalink: mydoc_more_information.html
 folder: mydoc
 ---
 
@@ -92,10 +91,10 @@ The simpler user workflow allows for 5 workflow steps. If you have a more comple
         <p>If you run into any of these setup issues, you must solve them before you can continue on.</p>
     
               </div>
-     ```
-     
+    ```
+    
      The existing usermapcomplex.html file just has 3 workflow square modals. If you need more, duplicate the modal code. In the duplicated code, make sure you make the following values in red unique (but the same within the same modal):
-     
+    
      <pre>
      <button type="button" class="btn btn-default btn-lg modalButton3" data-toggle="modal" data-target="<span class="red">#myModal3</span>">Publish your app</button>
            <!-- Modal -->
@@ -124,7 +123,7 @@ The simpler user workflow allows for 5 workflow steps. If you have a more comple
     ```
     In the page.html layout, the following code gets activated when `map` equals `true`:
         
-     ```
+    ```
         {% raw %}{% if page.complex_map == true %}
         
         <script>
@@ -139,4 +138,5 @@ The simpler user workflow allows for 5 workflow steps. If you have a more comple
         ```
      ```
      
+
 {% include links.html %}
