@@ -1,6 +1,7 @@
 body {
     font-size:14px;
 	/*line-height:25px;*/
+	padding:10px 0;
 }
 
 .bs-callout {
