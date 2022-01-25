@@ -29,7 +29,7 @@ entries:
       type: homepage
 
     - title: 我的理念
-      url: /mydoc_introduction.html
+      url: /overview/my_notions.html
       output: web, pdf
 
     - title: 网站功能及文档格式说明
