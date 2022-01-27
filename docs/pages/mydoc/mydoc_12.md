@@ -5,7 +5,10 @@ permalink: mydoc_12.html
 folder: mydoc
 ---
 
-{% include callout.html content="一段引用" type="primary" %} 
+{{site.data.alerts.callout_primary}}
+<p>一段引用</p>
+<p align="right">—— 作者《作品》</p>
+{{site.data.alerts.end}}
 
 正在更新中......
 

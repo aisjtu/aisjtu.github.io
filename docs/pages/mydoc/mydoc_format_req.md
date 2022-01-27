@@ -6,6 +6,10 @@ permalink: mydoc_format_req.html
 folder: mydoc
 ---
 
-{% include callout.html content="一位严谨的作家在写每一句话的时候，会至少问自己四个问题：（1） 我想说什么？（2） 用什么词来表达？（3） 什么样的形象或习语能让意思更清晰？（4） 这个形象的新鲜度够不够产生效果 ？—— 乔治奥威尔《政治与英语》 " type="primary" %} 
+{{site.data.alerts.callout_primary}}
+<p>一位严谨的作家在写每一句话的时候，会至少问自己四个问题：（1） 我想说什么？（2） 用什么词来表达？（3） 什么样的形象或习语能让意思更清晰？（4） 这个形象的新鲜度够不够产生效果 ？</p>
+<p align="right">—— 乔治奥威尔《政治与英语》</p>
+{{site.data.alerts.end}}
+
 
 {% include links.html %}

@@ -5,7 +5,10 @@ sidebar: 1/2/3/4_sidebar
 permalink: [md文件名称].html
 ---
 
-{% include callout.html content="你的引用" type="primary" %} 
+{{site.data.alerts.callout_primary}}
+<p>一段引用</p>
+<p align="right">—— 作者《作品》</p>
+{{site.data.alerts.end}}
 
 ## 标题1
 
