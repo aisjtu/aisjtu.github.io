@@ -1,5 +1,5 @@
 ---
-title: 课程名称
+title: 课程名称""
 keywords: （可选）
 sidebar: 1/2/3/4_sidebar
 permalink: [md文件名称].html
