@@ -22,10 +22,20 @@ permalink: index.html
 
 值得说明的是，不同人的学习方法不尽相同，我更希望该网站的创立能够帮助到后来者发现属于自己的学习方法（~~找到自己的交大AI专业生存指南~~）。
 
-<span class="label label-info">Note</span> 
+<span class="label label-info">注：</span> 
+
+{% include callout.html content="**Important information**: 
+<br/>
+
+<ol>
+<li>Coffee</li>
+<li>Milk</li>
+</ol>" type="info" %}
+
 
 1. 该网站**不仅仅**收录了我以 “.pdf” 为格式的笔记 (Lecture Notes)，同时还有与之对应的 “.tex” **源文件**、基于 [Notability](https://notability.com/zh-Hans) 的 “.note” 格式**源文件**或者基于 [GoodNotes](https://www.goodnotes.com) 的 “.gn” 格式**源文件**。这些源文件可直接基于所支持软件进行修改，旨在为大家提供更“直观”、更“友好”的资源。
-2. 我推荐你；关于我的学习方法，可见：[我的理念](mydoc_my_notions.html)。
+2. 如何更高效地使用该网站？有关网站更详细的信息，详见：
+3. 关于我的学习方法，可见：[我的理念](mydoc_my_notions.html)。
 
 
 
