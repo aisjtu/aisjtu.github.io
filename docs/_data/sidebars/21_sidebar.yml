@@ -1,0 +1,37 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: SJTU-AI Undergraduate Course
+  version: 1.0
+  folders:
+
+  - title: 回到首页
+    output: web, pdf
+    url: /index.html
+    output: web, pdf
+
+  - title: 大二上课程
+    output: web, pdf
+    folderitems:
+    
+    - title: 大二上课程总览
+      url: /mydoc_21.html
+      output: web, pdf
+    
+    - title: CS2601 线性优化与凸优化
+      url: /21_CS2601.html
+      output: web, pdf
+      
+    - title: MA1207 概率统计
+      url: /21_MA1207.html
+      output: web, pdf
+    
+    - title: CS2651 计算机体系结构
+      url: /21_CS2651.html
+      output: web, pdf
+    
+    - title: MARX1204 马克思主义原理
+      url: /21_MARX1204.html
+      output: web, pdf
+# Copyright 2021 Google LLC

@@ -1,6 +1,6 @@
 ---
 title: 大二上学期课程总览
-sidebar: mydoc_sidebar
+sidebar: 21_sidebar
 permalink: mydoc_21.html
 folder: mydoc
 ---
