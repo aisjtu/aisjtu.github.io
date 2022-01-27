@@ -10,7 +10,7 @@ entries:
     output: web, pdf
     folderitems:
     
-    - title: 大二上课程总览
+    - title: 回到首页
       url: /index.html
       output: web, pdf
 
