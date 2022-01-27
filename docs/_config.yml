@@ -94,17 +94,14 @@ defaults:
       comments: false
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
-      sidebar: home_sidebar
+      sidebar: mydoc_sidebar
       topnav: topnav
 
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
-- home_sidebar
 - mydoc_sidebar
-- product1_sidebar
-- product2_sidebar
-- other
+- 21_sidebar
 
 description: "SJTU-AI undergraduate lecture notes"
 # the description is used in the feed.xml file
