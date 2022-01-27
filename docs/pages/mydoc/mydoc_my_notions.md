@@ -6,9 +6,12 @@ folder: mydoc
 ---
 
 
+{{site.data.alerts.callout_primary}}
+<div>重湖叠巘清嘉，有三秋桂子，十里荷花。</div>
+<p align="right">——柳永《望海潮》</p>
+{{site.data.alerts.end}}
 
-{% include callout.html content="重湖叠巘清嘉，有三秋桂子，十里荷花。<p align="right">——柳永
-《望海潮》</p>" type="primary" %} 
+
 
 从大一开始
 
