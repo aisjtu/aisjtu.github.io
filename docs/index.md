@@ -25,7 +25,7 @@ permalink: index.html
 ### Important Information
 
 1. 该网站**不仅仅**收录了我以 “.pdf” 为格式的笔记 (Lecture Notes)，同时还有与之对应的 “.tex” **源文件**、基于 [Notability](https://notability.com/zh-Hans) 的 “.note” 格式**源文件**或者基于 [GoodNotes](https://www.goodnotes.com) 的 “.gn” 格式**源文件**。这些源文件可直接基于所支持软件进行修改，旨在为大家提供更“直观”、更“友好”的资源。
-2. 网站中有什么？如何更高效地使用该网站？有关网站更详细的信息，可见：[网站]
+2. 如何更高效地使用该网站？网站的未来计划？可见：[网站详细介绍](mydoc_details.html)
 3. 关于我的学习方法，可见：[我的理念](mydoc_my_notions.html)。
 
 
@@ -40,7 +40,7 @@ permalink: index.html
 - **点击**页面中 *Table of Contents* 下方 *Edit me* 按钮直接对本页定位，进行更快捷的编辑。
 - 直接与我联系，我的 **Email: anye_zhen[at]sjtu[dot]edu[dot]cn**（可以点击页面上方*“我的邮箱”*键快速发送邮件）。
 
-关于具体的文档格式要求以及如何充分利用该网站的功能，可详见：“[网站功能及文档格式说明]()”。
+关于具体的文档格式要求，详见：[文档格式说明](mydoc_format_req.html)。
 
 
 
