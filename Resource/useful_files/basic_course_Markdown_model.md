@@ -1,11 +1,13 @@
 ---
-title: ""
-keywords: homepage
-sidebar: mydoc_sidebar
-permalink: index.html
+title: 课程名称""
+keywords: （可选）
+sidebar: 1/2/3/4_sidebar
+permalink: [md文件名称].html
 ---
 
 {% include callout.html content="你的引用" type="primary" %} 
 
-## Introduction（关于本站）
+## 标题1
+
+
 
