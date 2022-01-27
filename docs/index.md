@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 permalink: index.html
 ---
 
-{% include callout.html content="真正自由的人只想他能够得到的东西，只做他喜欢做的事情，这就是我的第一基本原理。——卢梭《爱弥儿》" type="primary" %} 
+{% include callout.html content="真正自由的人只想他能够得到的东西，只做他喜欢做的事情，这就是我的第一基本原理。<br/><br/><div align="right">——卢梭《爱弥儿》</div>" type="primary" %} 
 
 ## Introduction（关于本站）
 
