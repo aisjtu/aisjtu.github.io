@@ -1,7 +1,7 @@
 ---
 title: 大二下学期课程总览
 sidebar: mydoc_sidebar
-permalink: mydoc_21.html
+permalink: mydoc_22.html
 folder: mydoc
 
 ---

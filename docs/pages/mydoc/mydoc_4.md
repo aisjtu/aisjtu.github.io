@@ -1,7 +1,7 @@
 ---
 title: 大四课程总览
 sidebar: mydoc_sidebar
-permalink: mydoc_21.html
+permalink: mydoc_4.html
 folder: mydoc
 
 ---
