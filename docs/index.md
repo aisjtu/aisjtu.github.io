@@ -26,7 +26,6 @@ permalink: index.html
 
 {% include callout.html content="**Important information**: 
 <br/>
-
 <ol>
 <li>Coffee</li>
 <li>Milk</li>
