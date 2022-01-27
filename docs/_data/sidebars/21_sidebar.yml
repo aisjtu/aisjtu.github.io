@@ -25,6 +25,10 @@ entries:
     - title: CS2601 线性优化与凸优化
       url: /21_CS2601.html
       output: web, pdf
+    
+    - title: ICE2501 信号与系统
+      url: /21_ICE2501.html
+      output: web, pdf
       
     - title: MA1207 概率统计
       url: /21_MA1207.html
