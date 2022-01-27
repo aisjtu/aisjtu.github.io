@@ -202,7 +202,7 @@ p.post-meta {font-size: 80%; color: #777;}
     font-size: 12px;
     background-color: white;
     position: absolute;
-    top: 45px; /* if you change anything about the nav, you'll prob. need to reset the top and left values here.*/
+    top: 46.5px; /* if you change anything about the nav, you'll prob. need to reset the top and left values here.*/
     left: 20px;
     z-index: -1;
     width:223px;
@@ -230,7 +230,7 @@ ul#results-container a:hover {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    margin-top:3px;
+    margin-top:4.5px;
 }
 /* end search */
 
