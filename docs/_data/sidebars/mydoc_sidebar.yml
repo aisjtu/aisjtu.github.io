@@ -39,10 +39,10 @@ entries:
     - title: 文档各式说明
       url: /mydoc_format_req.html
       output: web, pdf
-
-    - title: 我的Vim-Tex配置（有趣的题外话）
-      url: /mydoc_vim.html
-      output: web, pdf
+      
+    - title: 更新日志
+      url: /mydoc_updates.html
+      output: web
 
   - title: 大一课程
     output: web, pdf
@@ -86,5 +86,13 @@ entries:
     
     - title: 大四课程说明
       url: /mydoc_4.html
+      output: web, pdf
+      
+  - title: 有趣的题外话
+    output: web,pdf
+    folderitems:
+        
+    - title: 我的Vim-Tex配置
+      url: /others_vim.html
       output: web, pdf
 # Copyright 2021 Google LLC
