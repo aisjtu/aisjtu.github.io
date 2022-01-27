@@ -10,3 +10,7 @@ folder: mydoc
 
 
 Updating.........
+
+
+
+{% include links.html %}

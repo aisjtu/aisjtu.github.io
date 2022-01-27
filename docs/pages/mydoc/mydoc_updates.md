@@ -9,3 +9,4 @@ folder: mydoc
 
 大二上课程正在制作中
 
+{% include links.html %}

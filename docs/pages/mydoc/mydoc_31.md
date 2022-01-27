@@ -10,3 +10,4 @@ folder: mydoc
 
 正在更新中......
 
+{% include links.html %}
