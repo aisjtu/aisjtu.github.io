@@ -1,5 +1,5 @@
 ---
-title: 大二上学期课程总览
+title: 大三下学期课程总览
 sidebar: mydoc_sidebar
 permalink: mydoc_32.html
 folder: mydoc
