@@ -8,8 +8,11 @@ entries:
 
   - title: 回到首页
     output: web, pdf
-    url: /index.html
-    output: web, pdf
+    folderitems:
+    
+    - title: 大二上课程总览
+      url: /index.html
+      output: web, pdf
 
   - title: 大二上课程
     output: web, pdf
