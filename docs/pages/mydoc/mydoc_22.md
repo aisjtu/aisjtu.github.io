@@ -1,12 +1,12 @@
 ---
-title: Vim-TeX配置
-keywords: release notes, announcements, what's new, new features
-last_updated: July 16, 2016
+title: 大二下学期课程总览
 sidebar: mydoc_sidebar
-permalink: mydoc_22.html
+permalink: mydoc_21.html
 folder: mydoc
+
 ---
 
+{% include callout.html content="一段引用" type="primary" %} 
 
+正在更新中......
 
-这里是vim-tex配置。

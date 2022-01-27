@@ -1,11 +1,10 @@
 ---
-title: Vim-TeX配置
-keywords: release notes, announcements, what's new, new features
+title: 大一上学期课程总览
 sidebar: mydoc_sidebar
 permalink: mydoc_11.html
 folder: mydoc
 ---
 
+{% include callout.html content="一段引用" type="primary" %} 
 
-
-这里是vim-tex配置。
+正在更新中......
