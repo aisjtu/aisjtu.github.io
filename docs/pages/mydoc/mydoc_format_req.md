@@ -22,6 +22,8 @@ folder: mydoc
 
 同时基于一些基本的html知识，我也会在本小节中给出一些**额外的拓展功能的实现方法**。
 
+当你遇到问题时，我推荐你点开本页的 “Edit me” 直接查看其源代码格式, which is **Intriguing**.
+
 Remark: the References Part may be **practical**.
 
 ### 预览PDF文件[^1]
