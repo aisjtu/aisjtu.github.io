@@ -43,20 +43,20 @@ Remark: the References Part may be **practical**.
 
 ### 添加下载按钮
 
-假设你的下载链接为 “https://github.com/anyeZHY/ai-sjtu.github.io/raw/gh-pages/Resource/21/CS2601线性优化与凸优化/线性优化凸优化.pdf” ，则代码为：
+假设你的下载链接为 “https://github.com/anyeZHY/path/file.pdf” ，则代码为：
 
 ```html
-<a target="\_blank" class="noCrossRef" href="{{ "https://github.com/anyeZHY/ai-sjtu.github.io/raw/gh-pages/Resource/21/CS2601线性优化与凸优化/线性优化凸优化.pdf"}}"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a>
+<a target="\_blank" class="noCrossRef" href="{{ "https://github.com/anyeZHY/path/file.pdf"}}"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a>
 ```
 
 效果如下：
 
-<a target="\_blank" class="noCrossRef" href="{{ "https://github.com/anyeZHY/ai-sjtu.github.io/raw/gh-pages/Resource/21/CS2601线性优化与凸优化/线性优化凸优化.pdf"}}"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a>
+<a target="\_blank" class="noCrossRef" href="{{ "https://github.com/anyeZHY/path/file.pdf"}}"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a>
 
 ### 添加色彩标签
 
 ```html
-<span class="label label-default">Default</span>
+<span class="label label-default">Default 此处你可以更改（下同）</span>
 <span class="label label-primary">Primary</span>
 <span class="label label-success">Success</span>
 <span class="label label-info">Info</span>
@@ -64,7 +64,7 @@ Remark: the References Part may be **practical**.
 <span class="label label-danger">Danger</span>
 ```
 
-<span class="label label-default">Default</span>
+<span class="label label-default">Defaul 此处你可以更改（下同）</span>
 <span class="label label-primary">Primary</span>
 <span class="label label-success">Success</span>
 <span class="label label-info">Info</span>
