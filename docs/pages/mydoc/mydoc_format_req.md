@@ -21,7 +21,11 @@ folder: mydoc
 
 ## 拓展功能
 
-关于更多细节：可查阅 [https://idratherbewriting.com/documentation-theme-jekyll/mydoc_adding_tooltips.html](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_adding_tooltips.html).
+我使用了Tom Johnson *et al.* 制作的 [documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll) 模版，因此关于更多实施细节：可查阅网站 [https://idratherbewriting.com/documentation-theme-jekyll/mydoc_adding_tooltips.html](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_adding_tooltips.html) 中 Formatting 下的多个 subsections. **当然，我会在本节中简明地介绍他们的用法。**
+
+同时基于一些基本的html知识，我也会在本小节中给出一些**额外的拓展功能的实现方法**。
+
+Remark: the References Part may be **practical**.
 
 ### 预览PDF文件
 
@@ -39,13 +43,19 @@ folder: mydoc
 
 ### 添加下载按钮
 
+假设你的下载链接为 “https://github.com/anyeZHY/ai-sjtu.github.io/raw/gh-pages/Resource/21/CS2601线性优化与凸优化/线性优化凸优化.pdf” ，则代码为：
 
+```html
+<a target="\_blank" class="noCrossRef" href="{{ "https://github.com/anyeZHY/ai-sjtu.github.io/raw/gh-pages/Resource/21/CS2601线性优化与凸优化/线性优化凸优化.pdf"}}"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a>
+```
 
+效果如下：
 
+<a target="\_blank" class="noCrossRef" href="{{ "https://github.com/anyeZHY/ai-sjtu.github.io/raw/gh-pages/Resource/21/CS2601线性优化与凸优化/线性优化凸优化.pdf"}}"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a>
 
 ## References
 
-[^1]: https://stackoverflow.com/questions/30745981/opening-pdf-in-a-browser-with-github-pages
+[^1]: [https://stackoverflow.com/questions/30745981/opening-pdf-in-a-browser-with-github-pages](https://stackoverflow.com/questions/30745981/opening-pdf-in-a-browser-with-github-pages)
 
 
 {% include links.html %}
