@@ -36,7 +36,7 @@ entries:
       url: /mydoc_details.html
       output: web, pdf
       
-    - title: 文档格式说明
+    - title: Pull Request 贡献指南
       url: /mydoc_format_req.html
       output: web, pdf
       
