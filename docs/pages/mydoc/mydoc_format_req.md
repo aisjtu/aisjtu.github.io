@@ -21,16 +21,16 @@ folder: mydoc
 
 ## 拓展功能
 
-我使用了Tom Johnson *et al.* 制作的 [documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll) 模版，因此关于更多实施细节：可查阅网站 [https://idratherbewriting.com/documentation-theme-jekyll/mydoc_adding_tooltips.html](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_adding_tooltips.html) 中 Formatting 下的多个 subsections. **当然，我会在本节中简明地介绍他们的用法。**
+我使用了 Tom Johnson *et al.* 制作的 [documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll) 模版，因此关于更多实施细节：可查阅网站 [https://idratherbewriting.com/documentation-theme-jekyll/mydoc_adding_tooltips.html](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_adding_tooltips.html) 中 Formatting 下的多个 subsections. **当然，我会在本节中简明地介绍他们的用法。**
 
 同时基于一些基本的html知识，我也会在本小节中给出一些**额外的拓展功能的实现方法**。
 
 Remark: the References Part may be **practical**.
 
-### 预览PDF文件
+### 预览PDF文件[^1]
 
 1. 将文件添加至 `/docs/Rsr_pdf/文件夹/文件名.pdf` 中。此处我们假设文件夹为“21”，文件名是“线性优化凸优化”。
-1. 在 Markdown 文件中的对应位置添加如下代码[^1]：你可以调节 height 以控制高度。
+1. 在 Markdown 文件中的对应位置添加如下代码：你可以调节 height 以控制高度。
 
 
 ```html
@@ -53,7 +53,7 @@ Remark: the References Part may be **practical**.
 
 <a target="\_blank" class="noCrossRef" href="{{ "https://github.com/anyeZHY/path/file.pdf"}}"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a>
 
-### 添加色彩标签
+### 添加色彩标签[^2]
 
 ```html
 <span class="label label-default">Default 此处你可以更改（下同）</span>
@@ -71,9 +71,32 @@ Remark: the References Part may be **practical**.
 <span class="label label-warning">Warning</span>
 <span class="label label-danger">Danger</span>
 
+### 添加色彩着重引用[^3]
+
+```html
+{% include callout.html content="This is my danger type callout. It has a border on the left whose color you define by passing a type parameter." type="danger" %}
+```
+
+你可以更改 type 来改变左侧着色：
+
+{% include callout.html content="This is my **danger** type callout. It has a border on the left whose color you define by passing a type parameter." type="danger" %}
+
+{% include callout.html content="This is my **default** type callout. It has a border on the left whose color you define by passing a type parameter." type="default" %}
+
+{% include callout.html content="This is my **primary** type callout. It has a border on the left whose color you define by passing a type parameter." type="primary" %}
+
+{% include callout.html content="This is my **success** type callout. It has a border on the left whose color you define by passing a type parameter." type="success" %}
+
+{% include callout.html content="This is my **info** type callout. It has a border on the left whose color you define by passing a type parameter." type="info" %}
+
+{% include callout.html content="This is my **warning** type callout. It has a border on the left whose color you define by passing a type parameter." type="warning" %}
+
+
+
 ## References
 
 [^1]: [https://stackoverflow.com/questions/30745981/opening-pdf-in-a-browser-with-github-pages](https://stackoverflow.com/questions/30745981/opening-pdf-in-a-browser-with-github-pages)
-
+[^2]: [https://idratherbewriting.com/documentation-theme-jekyll/mydoc_labels.html](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_labels.html)
+[^3]: [https://idratherbewriting.com/documentation-theme-jekyll/mydoc_alerts.html](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_alerts.html)
 
 {% include links.html %}
