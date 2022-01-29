@@ -1,5 +1,5 @@
 ---
-title: Workflow maps
+title: Pull Request 贡献指南
 keywords: release notes, announcements, what's new, new features
 sidebar: mydoc_sidebar
 permalink: mydoc_format_req.html
@@ -52,6 +52,24 @@ Remark: the References Part may be **practical**.
 效果如下：
 
 <a target="\_blank" class="noCrossRef" href="{{ "https://github.com/anyeZHY/ai-sjtu.github.io/raw/gh-pages/Resource/21/CS2601线性优化与凸优化/线性优化凸优化.pdf"}}"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a>
+
+### 添加色彩标签
+
+```html
+<span class="label label-default">Default</span>
+<span class="label label-primary">Primary</span>
+<span class="label label-success">Success</span>
+<span class="label label-info">Info</span>
+<span class="label label-warning">Warning</span>
+<span class="label label-danger">Danger</span>
+```
+
+<span class="label label-default">Default</span>
+<span class="label label-primary">Primary</span>
+<span class="label label-success">Success</span>
+<span class="label label-info">Info</span>
+<span class="label label-warning">Warning</span>
+<span class="label label-danger">Danger</span>
 
 ## References
 
