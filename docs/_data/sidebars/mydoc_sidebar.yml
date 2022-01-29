@@ -44,17 +44,17 @@ entries:
       url: /mydoc_updates.html
       output: web
 
-  - title: 大一课程
-    output: web, pdf
-    folderitems:
-    
-    - title: 大一上课程
-      url: /mydoc_11.html
-      output: web, pdf
-      
-    - title: 大一下课程
-      url: /mydoc_12.html
-      output: web, pdf
+#  - title: 大一课程
+#    output: web, pdf
+#    folderitems:
+#
+#    - title: 大一上课程
+#      url: /mydoc_11.html
+#      output: web, pdf
+#
+#    - title: 大一下课程
+#      url: /mydoc_12.html
+#      output: web, pdf
 
   - title: 大二课程
     output: web, pdf
@@ -68,25 +68,25 @@ entries:
       url: /mydoc_22.html
       output: web, pdf
 
-  - title: 大三课程
-    output: web, pdf
-    folderitems:
-        
-    - title: 大三上课程
-      url: /mydoc_31.html
-      output: web, pdf
-      
-    - title: 大三下课程
-      url: /mydoc_32.html
-      output: web, pdf
-
-  - title: 大四课程
-    output: web, pdf
-    folderitems:
-    
-    - title: 大四课程说明
-      url: /mydoc_4.html
-      output: web, pdf
+#  - title: 大三课程
+#    output: web, pdf
+#    folderitems:
+#        
+#    - title: 大三上课程
+#      url: /mydoc_31.html
+#      output: web, pdf
+#      
+#    - title: 大三下课程
+#      url: /mydoc_32.html
+#      output: web, pdf
+#
+#  - title: 大四课程
+#    output: web, pdf
+#    folderitems:
+#    
+#    - title: 大四课程说明
+#      url: /mydoc_4.html
+#      output: web, pdf
       
   - title: 有趣的题外话
     output: web,pdf
