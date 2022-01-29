@@ -23,18 +23,19 @@ folder: mydoc
 
 关于更多细节：可查阅 [https://idratherbewriting.com/documentation-theme-jekyll/mydoc_adding_tooltips.html](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_adding_tooltips.html).
 
-### 预览PDF文件[^1]
+### 预览PDF文件
 
-1. 将文件添加至 `/docs/Rsr_pdf/文件夹/文件名.pdf` 中
+1. 将文件添加至 `/docs/Rsr_pdf/文件夹/文件名.pdf` 中。此处我们假设文件夹为“21”，文件名是“线性优化凸优化”。
+1. 在对应位置添加如下代码[^1]：你可以调节 height 以控制高度。
 
 
 ```html
-<embed src="https://anyeZHY.github.io/ai-sjtu.github.io/Rsr_pdf/线性优化凸优化.pdf" type="application/pdf" width="100%" height="250px"/>
+<embed src="https://anyeZHY.github.io/ai-sjtu.github.io/Rsr_pdf/21/线性优化凸优化.pdf" type="application/pdf" width="100%" height="250px"/>
 ```
 
 最终效果如下
 
-<embed src="https://anyeZHY.github.io/ai-sjtu.github.io/Rsr_pdf/线性优化凸优化.pdf" type="application/pdf" width="100%" height="250px"/>
+<embed src="https://anyeZHY.github.io/ai-sjtu.github.io/Rsr_pdf/21/线性优化凸优化.pdf" type="application/pdf" width="100%" height="250px"/>
 
 ## References
 
