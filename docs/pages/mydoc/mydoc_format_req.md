@@ -21,9 +21,16 @@ folder: mydoc
 
 ## 拓展功能
 
-### 使用[^1]
+[https://idratherbewriting.com/documentation-theme-jekyll/mydoc_adding_tooltips.html](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_adding_tooltips.html)
 
+### 预览PDF文件[^1]
 
+```html
+<embed src="https://anyeZHY.github.io/ai-sjtu.github.io/Rsr_pdf/线性优化凸优化.pdf" type="application/pdf" width="100%" height="500px"/>
+```
+
+效果如下
+<embed src="https://anyeZHY.github.io/ai-sjtu.github.io/Rsr_pdf/线性优化凸优化.pdf" type="application/pdf" width="100%" height="500px"/>
 
 ## References
 
