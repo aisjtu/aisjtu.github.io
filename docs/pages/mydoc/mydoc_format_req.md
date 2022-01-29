@@ -100,7 +100,7 @@ content 中内容并不支持 Markdown 格式，你需要用 `<br></br>` 以进�
 <p align="center">在这里你可以充分的发挥你的 html 相关操作</p>
 <pre>
 def func(x): 
-	# You could define a function her
+	# You could define a function here
 	return x+1
 </pre>
 {{site.data.alerts.end}}{% endraw %}
@@ -111,9 +111,10 @@ def func(x):
 <p align="center">在这里你可以充分的发挥你的 html 相关操作</p>
 <pre>
 def func(x):
-	# You could define a function her
+	# You could define a function here
 	return x+1
 </pre>
+
 {{site.data.alerts.end}}
 
 
