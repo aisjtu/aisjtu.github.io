@@ -21,10 +21,12 @@ folder: mydoc
 
 ## 拓展功能
 
-### 使用
+### 使用[^1]
 
 
 
+## References
 
+[^1]: asd`
 
 {% include links.html %}
