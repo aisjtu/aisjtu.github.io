@@ -91,6 +91,21 @@ Remark: the References Part may be **practical**.
 
 {% include callout.html content="This is my **warning** type callout. It has a border on the left whose color you define by passing a type parameter." type="warning" %}
 
+content 中内容并不支持 Markdown 格式，你需要用 `<br></br>` 以进行换行操作。
+
+更 Robust 的做法是：
+
+```html
+{{site.data.alerts.callout_primary}}
+<p>你可以更改上方的 primary 以选取不同颜色</p>
+<p align="center">在这里你可以充分的发挥你的 html 相关操作</p>
+{{site.data.alerts.end}}
+```
+
+{{site.data.alerts.callout_primary}}
+<p>你可以更改上方的 primary 以选取不同颜色</p>
+<p align="center">在这里你可以充分的发挥你的 html 相关操作</p>
+{{site.data.alerts.end}}
 
 
 ## References
