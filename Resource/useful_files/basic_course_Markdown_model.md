@@ -14,5 +14,10 @@ permalink: [md文件名称].html
 
 
 
-## Reference
+## References
 
+
+
+
+
+{% include links.html %}
