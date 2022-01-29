@@ -74,7 +74,7 @@ Remark: the References Part may be **practical**.
 ### 添加色彩着重引用[^3]
 
 ```html
-{% include callout.html content="This is my danger type callout. It has a border on the left whose color you define by passing a type parameter." type="danger" %}
+{% include callout.html content="This is my **danger** type callout. It has a border on the left whose color you define by passing a type parameter." type="danger" %}
 ```
 
 你可以更改 type 来改变左侧着色：
@@ -100,7 +100,8 @@ content 中内容并不支持 Markdown 格式，你需要用 `<br></br>` 以进�
 <p>你可以更改上方的 primary 以选取不同颜色</p>
 <p align="center">在这里你可以充分的发挥你的 html 相关操作</p>
 <pre>
-def func(x): # You could define a function her
+def func(x): 
+	# You could define a function her
 	return x+1
 </pre>
 {{site.data.alerts.end}}
@@ -110,7 +111,8 @@ def func(x): # You could define a function her
 <p>你可以更改上方的 primary 以选取不同颜色</p>
 <p align="center">在这里你可以充分的发挥你的 html 相关操作</p>
 <pre>
-def func(x): # You could define a function her
+def func(x):
+	# You could define a function her
 	return x+1
 </pre>
 {{site.data.alerts.end}}
