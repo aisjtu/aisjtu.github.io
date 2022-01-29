@@ -26,7 +26,8 @@ folder: mydoc
 ### 预览PDF文件[^1]
 
 1. 将文件添加至 `/docs/Rsr_pdf/文件夹/文件名.pdf` 中
-2. 
+
+
 ```html
 <embed src="https://anyeZHY.github.io/ai-sjtu.github.io/Rsr_pdf/线性优化凸优化.pdf" type="application/pdf" width="100%" height="250px"/>
 ```
