@@ -71,7 +71,7 @@ Remark: the References Part may be **practical**.
 ### 添加色彩着重引用[^3]
 
 ```html
-{% include callout.html content="This is my **danger** type callout. It has a border on the left whose color you define by passing a type parameter." type="danger" %}
+{% raw %}{% include callout.html content="This is my **danger** type callout. It has a border on the left whose color you define by passing a type parameter." type="danger" %}{% endraw %}
 ```
 
 你可以更改 type 来改变左侧着色：
