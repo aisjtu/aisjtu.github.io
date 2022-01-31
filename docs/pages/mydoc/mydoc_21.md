@@ -21,9 +21,9 @@ folder: mydoc
 课程中文名称    | 课程号                        | 是否存在内容 | 是否有笔记等资源 | 贡献者 
 ------- | ------------------------------------- | -------- | -----------|------- 
 [线性优化与凸优化](21_CS2601.html)  | CS2601     | 是   | 有 | anyeZHY 
-信号与系统 | ICE2501 |     |  | anyeZHY 
-概率统计   | MA1207 |     |  | anyeZHY 
-计算机体系结构 | CS2651 |     |  | anyeZHY 
+[信号与系统](21_ICE2501.html) | ICE2501 |     |  | anyeZHY 
+[概率统计](21_MA1207.html)   | MA1207 |     |  | anyeZHY 
+[计算机体系结构](21_CS2651.html) | CS2651 |     |  | anyeZHY 
 
 <div class="datatable-end"></div>
 
