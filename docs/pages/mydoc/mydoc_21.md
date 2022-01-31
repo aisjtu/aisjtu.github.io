@@ -9,6 +9,7 @@ folder: mydoc
 {{site.data.alerts.callout_primary}}
 <p>Veni, vidi, vici.（我来，我见，我征服。）</p>
 <p align="right">—— Gaius Julius Caesar（凯撒大帝）</p>
+{{site.data.alerts.end}}
 
 ## 课程信息
 
