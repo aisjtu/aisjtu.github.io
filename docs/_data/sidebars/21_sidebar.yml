@@ -6,12 +6,36 @@ entries:
   version: 1.0
   folders:
 
-  - title: 回到首页
+  - title: 返回
     output: web, pdf
     folderitems:
     
     - title: 回到首页
       url: /index.html
+      output: web, pdf
+      
+    - title: 大一上学期课程总览
+      url: mydoc_11.html
+      output: web, pdf
+      
+    - title: 大一下学期课程总览
+      url: /mydoc_12.html
+      output: web, pdf
+      
+    - title: 大二下学期课程总览
+      url: /mydoc_22.html
+      output: web, pdf
+      
+    - title: 大三上学期课程总览
+      url: /mydoc_31.html
+      output: web, pdf
+      
+    - title: 大三下学期课程总览
+      url: /mydoc_32.html
+      output: web, pdf
+      
+    - title: 大四课程总览
+      url: /mydoc_4.html
       output: web, pdf
 
   - title: 大二上课程
