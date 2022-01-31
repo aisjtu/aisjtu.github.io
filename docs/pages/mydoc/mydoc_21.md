@@ -25,7 +25,6 @@ folder: mydoc
 
 <div class="datatable-end"></div>
 
-{{site.data.alerts.end}}
 
 正在更新中......
 
