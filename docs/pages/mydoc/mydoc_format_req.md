@@ -38,7 +38,7 @@ Remark: the References Part may be **practical**.
 
 最终效果如下
 
-<embed src="https://anyeZHY.github.io/ai-sjtu.github.io/Rsr_pdf/21/线性优化凸优化.pdf" type="application/pdf" width="100%" height="250px"/>
+<embed src="https://aisjtu.github.io/Rsr_pdf/21/线性优化凸优化.pdf" type="application/pdf" width="100%" height="250px"/>
 
 ### 添加下载按钮
 
@@ -50,7 +50,7 @@ Remark: the References Part may be **practical**.
 
 效果如下：
 
-<a target="\_blank" class="noCrossRef" href="{{ "https://github.com/anyeZHY/path/file.pdf"}}"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a>
+<a target="\_blank" class="noCrossRef" href="{{ "https://github.com/aisjtu/path/file.pdf"}}"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a>
 
 ### 添加色彩标签[^2]
 
