@@ -13,6 +13,8 @@ folder: mydoc
 
 ## 课程信息
 
+大二上学期课程详见如下表格：
+
 
 <div class="datatable-begin"></div>
 
@@ -25,6 +27,8 @@ folder: mydoc
 
 <div class="datatable-end"></div>
 
+你可以：
 
+- 对表格内容搜索
 
 {% include links.html %}
