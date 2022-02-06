@@ -2,6 +2,7 @@
 title: 大一上学期课程总览
 sidebar: mydoc_sidebar
 permalink: mydoc_11.html
+datatable: true
 folder: mydoc
 ---
 
