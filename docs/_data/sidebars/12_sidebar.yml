@@ -39,10 +39,6 @@ entries:
       url: /mydoc_11.html
       output: web, pdf
 
-    - title: 大一下课程
-      url: /mydoc_12.html
-      output: web, pdf
-
   - title: 大二课程
     output: web, pdf
     folderitems:

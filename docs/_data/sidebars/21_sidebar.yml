@@ -46,10 +46,6 @@ entries:
   - title: 大二课程
     output: web, pdf
     folderitems:
-    
-    - title: 大二上课程
-      url: /mydoc_21.html
-      output: web, pdf
       
     - title: 大二下课程
       url: /mydoc_22.html
