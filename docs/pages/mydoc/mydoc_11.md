@@ -6,12 +6,12 @@ folder: mydoc
 ---
 
 {{site.data.alerts.callout_primary}}
-<p>入此门者，必当放弃一切希望。</p>
-<p align="right">—— 但丁《神曲》</p>
+<p>Forrest Gump: 我不懂我们是否有着各自的命运，还是只是到处随风飘荡。但我想：也许两者都有吧，也许两者都在同时发生着。</p>
+<p align="right">—— 《阿甘正传》</p>
 
 {{site.data.alerts.end}}
 
-为了所相信、所选择的希望，亦当学会放弃一切。
+
 
 ## 课程信息
 
@@ -23,10 +23,12 @@ folder: mydoc
 <div class="datatable-begin"></div>
 
 | 课程中文名称 | 课程号 | 是否存在内容 | 是否有笔记等资源 | 贡献者 |
-| ------------ | ------ | ------------ | ---------------- | ------ |
-| []()         |        | 是           | 有               | anye   |
-| []()         |        | 是           | 有               | anye   |
-| []()         |        | 是           | 有               | anye   |
+| ------------ | ------ | :----------: | :--------------: | ------ |
+| []()         |        |      是      |        有        | anye   |
+| []()         |        |      是      |        有        | anye   |
+| []()         |        |      是      |        有        | anye   |
 | []()         |        |              |                  | anye   |
+
+<div class="datatable-end"></div>
 
 {% include links.html %}

@@ -6,26 +6,59 @@ entries:
   version: 1.0
   folders:
 
-  - title: 返回
+  - title: 总览
+    output: web, pdf
+    folderitems:
+
+    - title: 首页
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: 我的理念
+      url: /mydoc_my_notions.html
+      output: web, pdf
+
+    - title: 网站详细介绍
+      url: /mydoc_details.html
+      output: web, pdf
+      
+    - title: Pull Request 贡献指南
+      url: /mydoc_format_req.html
+      output: web, pdf
+      
+    - title: 更新日志
+      url: /mydoc_updates.html
+      output: web
+
+  - title: 大一课程
+    output: web, pdf
+    folderitems:
+
+    - title: 大一上课程
+      url: /mydoc_11.html
+      output: web, pdf
+
+    - title: 大一下课程
+      url: /mydoc_12.html
+      output: web, pdf
+
+  - title: 大二课程
     output: web, pdf
     folderitems:
     
-    - title: 回到首页
-      url: /index.html
-      output: web, pdf
-      
-    - title: 大一上课程
-      url: mydoc_11.html
-      output: web, pdf
-      
-    - title: 大一下课程
-      url: /mydoc_12.html
+    - title: 大二上课程
+      url: /mydoc_21.html
       output: web, pdf
       
     - title: 大二下课程
       url: /mydoc_22.html
       output: web, pdf
-      
+
+  - title: 大三课程
+    output: web, pdf
+    folderitems:
+        
     - title: 大三上课程
       url: /mydoc_31.html
       output: web, pdf
@@ -33,8 +66,12 @@ entries:
     - title: 大三下课程
       url: /mydoc_32.html
       output: web, pdf
-      
-    - title: 大四课程
+
+  - title: 大四课程
+    output: web, pdf
+    folderitems:
+    
+    - title: 大四课程说明
       url: /mydoc_4.html
       output: web, pdf
 
