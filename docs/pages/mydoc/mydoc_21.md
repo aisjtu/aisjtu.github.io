@@ -11,7 +11,7 @@ folder: mydoc
 <p align="right">—— Gaius Julius Caesar（凯撒大帝）</p>
 {{site.data.alerts.end}}
 
-公元前47年8月2日，凯撒在泽拉城附近彻底击溃法尔纳克二世，随即驰书元老院：VENI VIDI VICI. 这封信常被认为是军事史上最简洁有力的捷报。
+公元前47年8月2日，凯撒在泽拉城附近彻底击溃法尔纳克二世，随即驰书元老院：VENI VIDI VICI。而这封信常被认为是军事史上最简洁有力的捷报。
 
 ## 课程信息
 
