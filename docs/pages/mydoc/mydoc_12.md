@@ -2,6 +2,7 @@
 title: 大一下学期课程总览
 sidebar: 12_sidebar
 permalink: mydoc_12.html
+datatable: true
 folder: mydoc
 ---
 
