@@ -1,0 +1,18 @@
+{% unless page.comments == false %}
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+<script>
+    const gitalk = new Gitalk({
+    clientID: '50833595c2bfd5da9d66',
+    clientSecret: '851b8f1b081f0e041341822eb176281225fa855d',
+    repo: 'ai.github.io',
+    owner: 'aisjtu',
+    admin: ['anye_zhy','aisjtu'],
+    // facebook-like distraction free mode
+    distractionFreeMode: false
+    })
+</script>
+{% endunless %}
+
+
+{% comment %} Copyright 2021 Google LLC {% endcomment %}
