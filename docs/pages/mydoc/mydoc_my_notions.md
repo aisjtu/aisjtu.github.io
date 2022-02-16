@@ -13,6 +13,6 @@ folder: mydoc
 
 
 
-从大一开始
+
 
 {% include links.html %}
