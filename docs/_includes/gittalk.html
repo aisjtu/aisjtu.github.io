@@ -1,17 +1,23 @@
 {% unless page.comments == false %}
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
-<script>
-    const gitalk = new Gitalk({
-    clientID: '50833595c2bfd5da9d66',
-    clientSecret: '851b8f1b081f0e041341822eb176281225fa855d',
-    repo: 'aisjtu.github.io',
-    owner: 'aisjtu',
-    admin: ['anye_zhy','aisjtu'],
-    // facebook-like distraction free mode
-    distractionFreeMode: false
-    })
-</script>
+<-- 引入 -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+  <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+
+<-- 添加一个容器-->
+<div id="gitalk-container"></div>
+
+<-- 生成 gitalk 插件-->
+var gitalk = new Gitalk({
+  clientID: '50833595c2bfd5da9d66',
+  clientSecret: '26d8eb4f3b0de9ce02382103ffc32ba34c4671f4',
+  repo: 'aisjtu',//仓库名称
+  owner: 'aisjtu',//仓库拥有者
+  admin: ['aisjtu','anye_zhy'],
+  id: location.href,
+  distractionFreeMode: false
+})
+
+gitalk.render('gitalk-container')
 {% endunless %}
 
 
