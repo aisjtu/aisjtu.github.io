@@ -28,12 +28,12 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: 我的理念
-      url: /mydoc_my_notions.html
-      output: web, pdf
-
     - title: 网站详细介绍
       url: /mydoc_details.html
+      output: web, pdf
+      
+    - title: 我的理念
+      url: /mydoc_my_notions.html
       output: web, pdf
       
     - title: Pull Request 贡献指南
