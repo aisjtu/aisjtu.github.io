@@ -32,10 +32,6 @@ entries:
       url: /mydoc_details.html
       output: web, pdf
       
-    - title: 我的理念
-      url: /mydoc_my_notions.html
-      output: web, pdf
-      
     - title: Pull Request 贡献指南
       url: /mydoc_format_req.html
       output: web, pdf
@@ -43,6 +39,10 @@ entries:
     - title: 更新日志
       url: /mydoc_updates.html
       output: web
+            
+    - title: 我的理念
+      url: /mydoc_my_notions.html
+      output: web, pdf
 
   - title: 大一课程
     output: web, pdf
