@@ -1,6 +1,5 @@
 ---
 title: Pull Request 贡献指南
-keywords: release notes, announcements, what's new, new features
 sidebar: mydoc_sidebar
 permalink: mydoc_format_req.html
 folder: mydoc
