@@ -53,7 +53,7 @@ folder: mydoc
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">为什么我在 Gitalk 输入时光标异常？</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">为什么我在 Gitalk 输入时光标异常？</a>
                             </h4>
                         </div>
                         <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
@@ -66,7 +66,7 @@ folder: mydoc
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">为什么手机端页面中嵌入的 PDF 预览界面显示异常（扭曲变形）？</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">为什么手机端页面中嵌入的 PDF 预览界面显示异常（扭曲变形）？</a>
                             </h4>
                         </div>
                         <div id="collapseThree" class="panel-collapse collapse noCrossRef">
