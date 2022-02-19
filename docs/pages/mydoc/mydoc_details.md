@@ -37,7 +37,7 @@ folder: mydoc
 - 该网站右上角位置支持基于课程号、课程中文名称的搜索，不支持内容搜索。
 - 在每学期课程总览表格支持排序，你可以快速筛查出哪些课程有内容，哪些课程有 Lecture Notes 等资源。
 - 该项目 Repo 的 [Resource](https://github.com/aisjtu/aisjtu.github.io/tree/gh-pages/Resource) 目录下包含着所有资源，你可以直接查看并下载它们。
-- 你可以在 [FAQ](my_doc.html) 中查找常见问题解答。
+- 你可以在 [FAQ](mydoc_faq.html) 中查找常见问题解答。
 
 ## 网站未来计划
 
