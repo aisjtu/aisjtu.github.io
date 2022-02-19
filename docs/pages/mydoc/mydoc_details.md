@@ -22,7 +22,9 @@ folder: mydoc
 
 因此，该网站每一页都会有**引用**以启发读者。此外，我致力于作出更直观、更专注内容的 **Lecture Notes**, 在完成后我会将其全部开源并放于该网站之中。
 
-或许你会察觉到我在不同时间所作的 Lecture Notes 的风格变化，它们一直在“无限进步”[^2]。**目前 (2022.2.19)**，我正在制作量子力学及机器学习的 Lecture Notes. 风格如下：(仅用作展示)
+或许你会察觉到我在不同时间所作的 Lecture Notes 的风格变化，它们一直在“无限进步”[^2]。**目前 (2022.2.19)**，我正在制作量子力学及机器学习的 Lecture Notes. 风格如下[[预览](Rsr_pdf/IQM.pdf)]：(仅用作展示)
+
+<embed src="Rsr_pdf/IQM.pdf" type="application/pdf" width="100%" height="100%"/>
 
 ### 网站功能
 
