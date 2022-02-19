@@ -39,6 +39,10 @@ entries:
     - title: 更新日志
       url: /mydoc_updates.html
       output: web
+      
+    - title: FAQ
+      url: /mydoc_faq.html
+      output: web
             
 #    - title: 我的理念
 #      url: /mydoc_my_notions.html
