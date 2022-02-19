@@ -27,9 +27,9 @@ entries:
       url: /mydoc_updates.html
       output: web
             
-    - title: 我的理念
-      url: /mydoc_my_notions.html
-      output: web, pdf
+#    - title: 我的理念
+#      url: /mydoc_my_notions.html
+#      output: web, pdf
 
   - title: 大一课程
     output: web, pdf
