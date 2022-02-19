@@ -3,6 +3,7 @@ title: 网站详细介绍
 sidebar: mydoc_sidebar
 permalink: mydoc_details.html
 folder: mydoc
+toc: false
 ---
 
 {{site.data.alerts.callout_primary}}
