@@ -28,8 +28,7 @@ permalink: index.html
 ### Important Information
 
 1. 该网站**不仅仅**收录了我以 “.pdf” 为格式的笔记 (Lecture Notes)，同时还有与之对应的 “.tex” **源文件**、基于 [Notability](https://notability.com/zh-Hans) 的 “.note” 格式**源文件**或者基于 [GoodNotes](https://www.goodnotes.com) 的 “.goodnotes” 格式**源文件**。这些源文件可直接基于所支持软件进行修改，旨在为大家提供更“直观”、更“友好”的资源。
-2. 如何更高效地使用该网站？网站的未来计划？可见：[网站详细介绍](mydoc_details.html)
-3. 关于我的学习方法，可见：[我的理念](mydoc_my_notions.html)。
+2. 该网站有什么？如何更高效地使用该网站？我的理念及学习方法？网站的未来计划？可见：[网站详细介绍](mydoc_details.html)
 
 
 
