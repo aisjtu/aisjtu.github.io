@@ -30,7 +30,7 @@ folder: mydoc
 
 {% include callout.html content="很早以来就有人在大声反对这种旧有的教育方法了，可是从来没有人准备提出一套更好的来。我们这个时代的文学和科学，倾向于破坏的成分多，倾向于建设的成分少。" type="info" %}
 
-我没有资质与能力提出一套更好的教育体系，但我希望该网站能够想大家提供一份**或许**可行的学习理念与务实的**学习资源** (Practicable method and practical resources)。
+我没有资质与能力提出一套更好的教育体系，但我希望该网站能够为大家提供一份**或许**可行的学习理念与务实的**学习资源** (Practicable method and practical resources)。
 
 ### 网站功能
 
