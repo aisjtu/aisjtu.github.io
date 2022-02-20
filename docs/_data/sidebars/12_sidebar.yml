@@ -106,4 +106,24 @@ entries:
     - title: PHY1251 大学物理(A类)
       url: /12_PHY1251.html
       output: web, pdf
+    
+    - title: AI1602 人工智能问题求解与实践
+      url: /12_AI1602.html
+      output: web, pdf
+    
+    - title: PHY1221 大学物理实验（1）
+      url: /12_PHY1221.html
+      output: web, pdf
+    
+    - title: EN063 大学英语（3）
+      url: /12_EN063.html
+      output: web, pdf
+    
+    - title: MARX1202 中国近现代史纲要
+      url: /12_MARX1202.html
+      output: web, pdf
+    
+    - title: MARX1206 新时代社会认知实践
+      url: /12_MARX1206.html
+      output: web, pdf
 # Copyright 2021 Google LLC
