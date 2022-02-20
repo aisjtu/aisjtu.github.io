@@ -103,7 +103,24 @@ entries:
       url: /21_CS2651.html
       output: web, pdf
     
+    - title: AI2618 电子电路系统实验
+      url: /21_AI2618.html
+      output: web, pdf
+    
+    - title: EST2502 模拟电子技术
+      url: /21_-EST2502.html
+      output: web, pdf
+    
+    - title: PHY1222 大学物理实验（2）
+      url: /21_PHY1222.html
+      output: web, pdf
+    
+    - title: PHY1252 大学物理(A类)(2)
+      url: /21_PHY1252.html
+      output: web, pdf
+    
     - title: MARX1204 马克思主义原理
       url: /21_MARX1204.html
       output: web, pdf
+      
 # Copyright 2021 Google LLC
