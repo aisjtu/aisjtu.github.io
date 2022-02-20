@@ -11,6 +11,6 @@ folder: mydoc
 
 {{site.data.alerts.end}}
 
-大二上课程正在制作中
+## The First Release
 
 {% include links.html %}

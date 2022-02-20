@@ -11,6 +11,6 @@ folder: mydoc
 <p align="right">—— 作者《作品》</p>
 {{site.data.alerts.end}}
 
-正在更新中......
+{% include note.html content="大三上课程正在制作中......部分大一下、大二上课程已完成。" %}
 
 {% include links.html %}

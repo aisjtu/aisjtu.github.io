@@ -7,11 +7,12 @@ folder: mydoc
 ---
 
 {{site.data.alerts.callout_primary}}
-<p>一段引用</p>
-<p align="right">—— 作者《作品》</p>
+<p>争渡，争渡，惊起一滩鸥鹭。</p>
+<p align="right">—— 李清照《如梦令》</p>
+
 {{site.data.alerts.end}}
 
-正在更新中......
+大四仅设一门课程：毕业设计。
 
 {% include links.html %}
 

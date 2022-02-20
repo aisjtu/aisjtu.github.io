@@ -14,7 +14,7 @@ folder: mydoc
 
 ### 修改文件
 
-找到对应文件直接进行修改即可，推荐通过 *Edit me* 按钮进行定位，通常而言 Markdown 格式文档位于路径`/docs/pages/`下。
+找到对应文件直接进行修改即可，推荐通过 *Edit me* 按钮进行定位，通常而言 Markdown 格式文档位于路径`docs/pages/`下。
 
 与此同时，你可以选择在“课程总览”的表格中找到对应课程，添加或修改其信息。
 
@@ -22,10 +22,10 @@ folder: mydoc
 
 需要进行如下几个步骤：
 
-1. 在`/Resource/useful_files/`中找到 Markdown 格式的初始模版，在其基础上建立你的课程评价。
-2. 将上述 Markdown 文件置于`/docs/pages/`的文件夹中，规则：大一上课程--11，大一下课程--12，大二上课程--21，以此类推。
-3. 在`/docs/_data/sidebars`找到对应的yml文件（规则同2），在其中添加该课程。
-4. 在`/docs/pages/mydoc/`中找到对应的“课程总览”文件（名称为`mydoc_ij.md`，规则同2），在表格中添加该课程。
+1. 在`Resource/useful_files/`中找到 Markdown 格式的初始模版，在其基础上建立你的课程评价。
+2. 将上述 Markdown 文件置于`docs/pages/`的文件夹中，规则：大一上课程--11，大一下课程--12，大二上课程--21，以此类推。
+3. 在`docs/_data/sidebars`找到对应的yml文件（规则同2），在其中添加该课程。
+4. 在`docs/pages/mydoc/`中找到对应的“课程总览”文件（名称为`mydoc_ij.md`，规则同2），在表格中添加该课程。
 
 步骤较为繁琐，如有问题可以与我联系。
 
