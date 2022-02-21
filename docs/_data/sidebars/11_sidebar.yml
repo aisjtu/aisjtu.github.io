@@ -1,0 +1,129 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: SJTU-AI Undergraduate Course
+  version: 1.0
+  folders:
+
+  - title: 总览
+    output: web, pdf
+    folderitems:
+
+    - title: 首页
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: 网站详细介绍
+      url: /mydoc_details.html
+      output: web, pdf
+      
+    - title: Pull Request 贡献指南
+      url: /mydoc_format_req.html
+      output: web, pdf
+      
+    - title: 更新日志
+      url: /mydoc_updates.html
+      output: web
+
+    - title: FAQ
+      url: /mydoc_faq.html
+      output: web
+            
+#    - title: 我的理念
+#      url: /mydoc_my_notions.html
+#      output: web, pdf
+
+  - title: 大一课程
+    output: web, pdf
+    folderitems:
+
+    - title: 大一上课程
+      url: /mydoc_11.html
+      output: web, pdf
+      
+    - title: 大一下课程
+      url: /mydoc_12.html
+      output: web, pdf
+
+  - title: 大二课程
+    output: web, pdf
+    folderitems:
+    
+    - title: 大二上课程
+      url: /mydoc_21.html
+      output: web, pdf
+      
+    - title: 大二下课程
+      url: /mydoc_22.html
+      output: web, pdf
+
+  - title: 大三课程
+    output: web, pdf
+    folderitems:
+        
+    - title: 大三上课程
+      url: /mydoc_31.html
+      output: web, pdf
+      
+    - title: 大三下课程
+      url: /mydoc_32.html
+      output: web, pdf
+
+  - title: 大四课程
+    output: web, pdf
+    folderitems:
+    
+    - title: 大四课程说明
+      url: /mydoc_4.html
+      output: web, pdf
+
+  - title: 大一下课程
+    output: web, pdf
+    folderitems:
+    
+    - title: 大一下课程总览
+      url: /mydoc_12.html
+      output: web, pdf
+    
+    - title: EST2501 数字电子技术
+      url: /12_EST2501.html
+      output: web, pdf
+    
+    - title: MA1204 数学分析II
+      url: /12_MA1204.html
+      output: web, pdf
+      
+    - title: EE0501H 电路理论（荣誉）
+      url: /12_EE0501H.html
+      output: web, pdf
+    
+    - title: CS1652 数据结构（AI）
+      url: /12_CS1652.html
+      output: web, pdf
+    
+    - title: PHY1251 大学物理(A类)
+      url: /12_PHY1251.html
+      output: web, pdf
+    
+    - title: AI1602 人工智能问题求解与实践
+      url: /12_AI1602.html
+      output: web, pdf
+    
+    - title: PHY1221 大学物理实验（1）
+      url: /12_PHY1221.html
+      output: web, pdf
+    
+    - title: EN063 大学英语（3）
+      url: /12_EN063.html
+      output: web, pdf
+    
+    - title: MARX1202 中国近现代史纲要
+      url: /12_MARX1202.html
+      output: web, pdf
+    
+    - title: MARX1206 新时代社会认知实践
+      url: /12_MARX1206.html
+      output: web, pdf
+# Copyright 2021 Google LLC
