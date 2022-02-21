@@ -33,7 +33,7 @@ folder: mydoc
 | [大学英语（3）](12_EN063.html)                | EN063    |      否      |        无        |        |
 | [中国近现代史纲要](12_MARX1202.html)          | MARX1202 |      否      |        无        |        |
 | [新时代社会认知实践](12_MARX1206.html)        | MARX1206 |      否      |        无        |        |
-| [大学物理实验（1）](12_PHY1221.html)          | PHY1221  |      否      |        无        |        |
+| [大学物理实验（1）](12_PHY1221.html)          | PHY1221  |      是      |        有        | anye |
 
 <div class="datatable-end"></div>
 
