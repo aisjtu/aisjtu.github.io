@@ -31,7 +31,7 @@ folder: mydoc
 [电子电路系统实验](21_AI2618.html) | AI2618 | 是 | 有 | ieee.icu 
 [模拟电子技术](21_EST2502.html) | EST2502 | 否 | 无 |  
 [马克思主义基本原理](21_MARX1204.html) | MARX1204 | 否 | 无 |  
-[大学物理实验（2）](21_PHY1222.html) | PHY1222 | 是 | 无 |  
+[大学物理实验（2）](21_PHY1222.html) | PHY1222 | 是 | 有 | anye 
 [大学物理(A类)(2)](21_PHY1252.html) | PHY1252 | 否 | 无 |  
 
 <div class="datatable-end"></div>
