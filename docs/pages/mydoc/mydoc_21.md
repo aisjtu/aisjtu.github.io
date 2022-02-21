@@ -28,10 +28,10 @@ folder: mydoc
 [信号与系统](21_ICE2501.html) | ICE2501 | 是 | 有 | anye 
 [概率统计](21_MA1207.html)   | MA1207 | 是 | 有 | anye 
 [计算机体系结构](21_CS2651.html) | CS2651 | 否 | 无 |  
-[电子电路系统实验](21_AI2618.html) | AI2618 | 否 | 无 |  
+[电子电路系统实验](21_AI2618.html) | AI2618 | 是 | 有 | ieee.icu 
 [模拟电子技术](21_EST2502.html) | EST2502 | 否 | 无 |  
-[马克思主义基本原理](21_MARX1204.html) | MARX1204 | 否 | 无 |  
-[大学物理实验（2）](21_PHY1222.html) | PHY1222 | 否 | 无 |  
+[马克思主义基本原理](21_MARX1204.html) | MARX1204 | 否 | 无 | anye 
+[大学物理实验（2）](21_PHY1222.html) | PHY1222 | 是 | 无 |  
 [大学物理(A类)(2)](21_PHY1252.html) | PHY1252 | 否 | 无 |  
 
 <div class="datatable-end"></div>
