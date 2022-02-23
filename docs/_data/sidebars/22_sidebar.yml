@@ -79,51 +79,50 @@ entries:
       url: /mydoc_4.html
       output: web, pdf
 
-  - title: 大一下课程
+  - title: 大二下课程
     output: web, pdf
     folderitems:
     
-    - title: 大一下课程总览
-      url: /mydoc_12.html
+    - title: 大二下课程总览
+      url: /mydoc_22.html
       output: web, pdf
     
-    - title: EST2501 数字电子技术
-      url: /12_EST2501.html
+    - title: AI2611 机器学习
+      url: /12_AI2611.html
       output: web, pdf
     
-    - title: MA1204 数学分析II
-      url: /12_MA1204.html
+    - title: AI2612 机器学习工程实践
+      url: /12_AI2612.html
       output: web, pdf
       
-    - title: EE0501H 电路理论（荣誉）
-      url: /12_EE0501H.html
+    - title: AI2613 随机过程
+      url: /12_AI2613.html
       output: web, pdf
     
-    - title: CS1652 数据结构（AI）
-      url: /12_CS1652.html
+    - title: AI2615 算法设计与分析
+      url: /12_AI2615.html
       output: web, pdf
     
-    - title: PHY1251 大学物理(A类)
-      url: /12_PHY1251.html
+    - title: AI2619 数字信号与图像处理
+      url: /12_AI2619.html
       output: web, pdf
     
-    - title: AI1602 人工智能问题求解与实践
-      url: /12_AI1602.html
+    - title: AI2651 智能语音识别
+      url: /12_AI2651.html
       output: web, pdf
     
-    - title: PHY1221 大学物理实验（1）
-      url: /12_PHY1221.html
+    - title: AU2651 控制理论
+      url: /12_AU2651.html
       output: web, pdf
     
-    - title: EN063 大学英语（3）
-      url: /12_EN063.html
+    - title: MARX1203 毛泽东思想和中国特色社会主义理论体系概论
+      url: /12_MARX1203.html
       output: web, pdf
     
-    - title: MARX1202 中国近现代史纲要
-      url: /12_MARX1202.html
+    - title: MST2651 数字逻辑设计
+      url: /12_MST2651.html
       output: web, pdf
     
-    - title: MARX1206 新时代社会认知实践
-      url: /12_MARX1206.html
+    - title: PHY1253 大学物理(A类) (3)
+      url: /12_PHY1253.html
       output: web, pdf
-# Copyright 2021 Google LLC
