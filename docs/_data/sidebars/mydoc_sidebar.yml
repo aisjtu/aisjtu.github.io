@@ -96,6 +96,10 @@ entries:
     output: web,pdf
     folderitems:
         
+    - title: 我是如何做笔记的
+      url: /others_how.html
+      output: web, pdf
+        
     - title: 我的Vim-Tex配置
       url: /others_vim.html
       output: web, pdf
