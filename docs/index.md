@@ -3,7 +3,6 @@ title: "Homepage"
 keywords: homepage
 sidebar: mydoc_sidebar
 permalink: index.html
-comments: false
 ---
 
 {{site.data.alerts.callout_primary}}
