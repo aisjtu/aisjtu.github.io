@@ -59,24 +59,24 @@ Remark: the References Part may be **practical**.
 
 
 ```html
-<embed src="https://aisjtu.github.io/Rsr_pdf/21/线性优化凸优化.pdf" type="application/pdf" width="100%" height="250px"/>
+{% raw %}{% include pdf.html src="https://aisjtu.github.io/Rsr_pdf/IQM.pdf" %}{% endraw %}
 ```
 
 最终效果如下
 
-<embed src="https://aisjtu.github.io/Rsr_pdf/21/线性优化凸优化.pdf" type="application/pdf" width="100%" height="250px"/>
+{% include pdf.html src="https://aisjtu.github.io/Rsr_pdf/IQM.pdf"%}
 
 ### 添加下载按钮
 
 假设你的下载链接为 “https://github.com/aisjtu/path/file.pdf” ，则代码为：
 
 ```html
-<a target="\_blank" class="noCrossRef" href="{{ "https://github.com/aisjtu/path/file.pdf"}}"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a>
+{% raw %}{% include download.html href="https://github.com/aisjtu/path/file.pdf" type="PDF"%}{% endraw %}
 ```
 
 效果如下：
 
-<a target="\_blank" class="noCrossRef" href="{{ "https://github.com/aisjtu/path/file.pdf"}}"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a>
+{% include download.html href="https://github.com/aisjtu/path/file.pdf" type="PDF"%}
 
 ### 添加色彩标签[^2]
 
