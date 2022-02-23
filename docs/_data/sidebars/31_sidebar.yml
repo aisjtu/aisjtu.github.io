@@ -79,50 +79,62 @@ entries:
       url: /mydoc_4.html
       output: web, pdf
 
-  - title: 大二下课程
+  - title: 大三上课程
     output: web, pdf
     folderitems:
     
-    - title: 大二下课程总览
-      url: /mydoc_22.html
+    - title: 大三上课程总览
+      url: /mydoc_31.html
       output: web, pdf
     
-    - title: AI2611 机器学习
-      url: /22_AI2611.html
+    - title: AI3601 强化学习
+      url: /31_AI3601.html
       output: web, pdf
     
-    - title: AI2612 机器学习工程实践
-      url: /22_AI2612.html
+    - title: AI3602 数据挖掘
+      url: /31_AI3602.html
       output: web, pdf
       
-    - title: AI2613 随机过程
-      url: /22_AI2613.html
+    - title: AI3604 计算机视觉
+      url: /31_AI3604.html
       output: web, pdf
     
-    - title: AI2615 算法设计与分析
-      url: /22_AI2615.html
+    - title: AI3605 人工智能前沿讲座
+      url: /31_AI3605.html
       output: web, pdf
     
-    - title: AI2619 数字信号与图像处理
-      url: /22_AI2619.html
+    - title: AI3606 数理逻辑
+      url: /31_AI3606.html
       output: web, pdf
     
-    - title: AI2651 智能语音识别
-      url: /22_AI2651.html
+    - title: AI3607 深度学习及应用
+      url: /31_AI3607.html
       output: web, pdf
     
-    - title: AU2651 控制理论
-      url: /22_AU2651.html
+    - title: AI3608 生物信息学
+      url: /31_AI3608.html
       output: web, pdf
     
-    - title: MARX1203 毛泽东思想和中国特色社会主义理论体系概论
-      url: /22_MARX1203.html
+    - title: AU3307 机器人学
+      url: /31_AU3307.html
       output: web, pdf
     
-    - title: MST2651 数字逻辑设计
-      url: /22_MST2651.html
+    - title: CS3601 操作系统
+      url: /31_CS3601.html
       output: web, pdf
     
-    - title: PHY1253 大学物理(A类) (3)
-      url: /22_PHY1253.html
+    - title: CS3602 自然语言处理
+      url: /31_CS3602.html
+      output: web, pdf
+    
+    - title: ICE3311 智能物联网
+      url: /31_ICE3311.html
+      output: web, pdf
+    
+    - title: CS3604 软件工程与项目管理
+      url: /31_CS3604.html
+      output: web, pdf
+    
+    - title: MST3601 人工智能芯片导论
+      url: /31_MST3601.html
       output: web, pdf

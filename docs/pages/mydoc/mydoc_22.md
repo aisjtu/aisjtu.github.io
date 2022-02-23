@@ -3,7 +3,7 @@ title: 大二下学期课程总览
 sidebar: 22_sidebar
 permalink: mydoc_22.html
 folder: mydoc
-
+datatable: true
 ---
 
 {{site.data.alerts.callout_primary}}
