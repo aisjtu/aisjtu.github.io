@@ -3,7 +3,7 @@ title: 大三下学期课程总览
 sidebar: mydoc_sidebar
 permalink: mydoc_32.html
 folder: mydoc
-
+datatable: true
 ---
 
 {{site.data.alerts.callout_primary}}
