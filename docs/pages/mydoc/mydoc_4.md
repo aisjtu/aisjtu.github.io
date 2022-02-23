@@ -7,8 +7,8 @@ folder: mydoc
 ---
 
 {{site.data.alerts.callout_primary}}
-<p>争渡，争渡，惊起一滩鸥鹭。</p>
-<p align="right">—— 李清照《如梦令》</p>
+<p>对于那些已经不在的人们，就算只是偶尔也好，请想起他们的事。</p>
+<p align="right">—— 《最终幻想》10</p>
 
 {{site.data.alerts.end}}
 

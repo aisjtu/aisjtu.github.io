@@ -1,16 +1,32 @@
 ---
 title: 大二下学期课程总览
-sidebar: mydoc_sidebar
+sidebar: 22_sidebar
 permalink: mydoc_22.html
 folder: mydoc
 
 ---
 
 {{site.data.alerts.callout_primary}}
-<p>一段引用</p>
-<p align="right">—— 作者《作品》</p>
+<p>There are more things in heaven and earth, Horatio, than are dreamt of in your philosophy.</p>
+<p align="right">—— Shakespeare《Hamlet》</p>
+
 {{site.data.alerts.end}}
 
-正在更新中......
+<div class="datatable-begin"></div>
+
+| 课程中文名称                                         | 课程号   | 是否存在内容 | 是否有笔记等资源 | 贡献者 |
+| ---------------------------------------------------- | -------- | :----------: | :--------------: | ------ |
+| [机器学习](22_AI2611.html)                           | AI2611   |      否      |        无        |        |
+| [机器学习工程实践](22_AI2612.html)                   | AI2612   |      否      |        无        |        |
+| [随机过程](22_AI2613.html)                           | AI2613   |      否      |        无        |        |
+| [算法设计与分析](22_AI2615.html)                     | AI2615   |      否      |        无        |        |
+| [数字信号与图像处理](22_AI2619.html)                 | AI2619   |      否      |        无        |        |
+| [智能语音识别](22_AI2651.html)                       | AI2651   |      否      |        无        |        |
+| [控制理论](22_AU2651.html)                           | AU2651   |      否      |        无        |        |
+| [毛泽东思想和中国特色社会主义理论](22_MARX1203.html) | MARX1203 |      否      |        无        |        |
+| [数字逻辑设计](22_MST2651.html)                      | MST2651  |      否      |        无        |        |
+| [大学物理(A类) (3)](22_PHY1253.html)                 | PHY1253  |      否      |        无        |        |
+
+<div class="datatable-end"></div>
 
 {% include links.html %}
