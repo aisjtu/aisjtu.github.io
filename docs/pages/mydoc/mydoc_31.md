@@ -1,6 +1,6 @@
 ---
 title: 大三上学期课程总览
-sidebar: mydoc_sidebar
+sidebar: 31_sidebar
 permalink: mydoc_31.html
 folder: mydoc
 datatable: true
