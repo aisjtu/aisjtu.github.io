@@ -32,7 +32,7 @@ folder: mydoc
 
 或许你会察觉到我在不同时间所作的 Lecture Notes 的风格变化，它们一直在“**无限进步**”[^1]。**目前 (2022.2.19)**，我正在制作量子力学及机器学习的 Lecture Notes. 风格如下[[全屏预览](Rsr_pdf/IQM.pdf)]：(仅用作展示)
 
-<embed src="Rsr_pdf/IQM.pdf" type="application/pdf" width="100%" height="100%"/>
+{% include pdf.html src="https://aisjtu.github.io/Rsr_pdf/IQM.pdf" %}
 
 尽管如此，我仍想引用卢梭的一句话[^2] 以反思：
 
