@@ -5,8 +5,8 @@ topnav:
   items:
     - title: GitHub
       external_url: https://github.com/aisjtu/aisjtu.github.io
-#    - title: News
-#      url: /news
+    - title: FAQ
+      url: /mydoc_faq.html
 
 #Topnav dropdowns
 #topnav_dropdowns:
