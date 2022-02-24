@@ -1,0 +1,124 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: SJTU-AI Undergraduate Course
+  version: 1.0
+  folders:
+
+  - title: 总览
+    output: web, pdf
+    folderitems:
+
+    - title: 首页
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: 网站详细介绍
+      url: /mydoc_details.html
+      output: web, pdf
+      
+    - title: Pull Request 贡献指南
+      url: /mydoc_format_req.html
+      output: web, pdf
+      
+    - title: 更新日志
+      url: /mydoc_updates.html
+      output: web
+
+    - title: FAQ
+      url: /mydoc_faq.html
+      output: web
+            
+#    - title: 我的理念
+#      url: /mydoc_my_notions.html
+#      output: web, pdf
+
+  - title: 大一课程
+    output: web, pdf
+    folderitems:
+
+    - title: 大一上课程
+      url: /mydoc_11.html
+      output: web, pdf
+      
+    - title: 大一下课程
+      url: /mydoc_12.html
+      output: web, pdf
+
+  - title: 大二课程
+    output: web, pdf
+    folderitems:
+    
+    - title: 大二上课程
+      url: /mydoc_21.html
+      output: web, pdf
+      
+    - title: 大二下课程
+      url: /mydoc_22.html
+      output: web, pdf
+
+  - title: 大三课程
+    output: web, pdf
+    folderitems:
+        
+    - title: 大三上课程
+      url: /mydoc_31.html
+      output: web, pdf
+      
+    - title: 大三下课程
+      url: /mydoc_32.html
+      output: web, pdf
+
+  - title: 大四课程
+    output: web, pdf
+    folderitems:
+    
+    - title: 大四课程说明
+      url: /mydoc_4.html
+      output: web, pdf
+
+  - title: 大三下课程
+    output: web, pdf
+    folderitems:
+    
+    - title: 大三下课程总览
+      url: /mydoc_32.html
+      output: web, pdf
+    
+    - title: AI3610 类脑智能
+      url: /32_AI3610.html
+      output: web, pdf
+    
+    - title: AI3611 智能感知认知实践
+      url: /32_AI3611.html
+      output: web, pdf
+      
+    - title: AI3612 知识表征与推理
+      url: /32_AI3612.html
+      output: web, pdf
+    
+    - title: AI3613 数据库原理
+      url: /32_AI3613.html
+      output: web, pdf
+    
+    - title: AI3614 人工智能硬件综合实践
+      url: /32_AI3614.html
+      output: web, pdf
+    
+    - title: AI3615 人工智能芯片设计
+      url: /32_AI3615.html
+      output: web, pdf
+    
+    - title: AI3617 博弈论与多智能体学习
+      url: /32_AI3617.html
+      output: web, pdf
+    
+    - title: AI3702 移动机器人
+      url: /32_AI3702.html
+      output: web, pdf
+    
+    - title: AU3601 机器人综合实践
+      url: /32_AU3601.html
+      output: web, pdf
