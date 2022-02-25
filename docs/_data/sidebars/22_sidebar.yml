@@ -79,6 +79,18 @@ entries:
       url: /mydoc_4.html
       output: web, pdf
 
+  - title: 有趣的题外话
+    output: web,pdf
+    folderitems:
+        
+    - title: 我是如何做笔记的
+      url: /others_how.html
+      output: web, pdf
+        
+    - title: 我的Vim-Tex配置
+      url: /others_vim.html
+      output: web, pdf
+
   - title: 大二下课程
     output: web, pdf
     folderitems:
