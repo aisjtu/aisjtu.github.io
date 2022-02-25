@@ -5,12 +5,15 @@
   {% for entry in sidebar %}
   {% for folder in entry.folders %}
   {% if folder.output contains "web" %}
-  <li>
-      {% if folder.url %}
-      <a title="{{folder.title}}" href="{{folder.url | remove: "/"}}">{{folder.title}}</a>
-      {% else %}
-      <a title="{{folder.title}}" href="#">{{folder.title}}</a>
-      {% endif %}
+  {% if folder.url %}
+  {% if page.url == folder.url %}
+  <li class="active"><a title="{{folder.title}}" href="{{folder.url | remove: "/"}}">{{folder.title}}</a>
+  {% else %}
+  <li><a title="{{folder.title}}" href="{{folder.url | remove: "/"}}">{{folder.title}}</a>
+  {% endif %}
+  {% else %}
+  <li><a title="{{folder.title}}" href="#">{{folder.title}}</a>
+  {% endif %}
       <ul>
           {% for folderitem in folder.folderitems %}
           {% if folderitem.output contains "web" %}
@@ -18,8 +21,6 @@
           <li><a title="{{folderitem.title}}" href="{{folderitem.external_url}}" target="_blank" rel="noopener">{{folderitem.title}}</a></li>
           {% elsif page.url == folderitem.url %}
           <li class="active"><a title="{{folderitem.title}}" href="{{folderitem.url | remove: "/"}}">{{folderitem.title}}</a></li>
-          {% elsif page.url == folder.url %}
-          <li class="active"><a title="{{folderitem.title}}" href="{{folderitem.url | remove: "/"}}">{{folder.title}}</a></li>
           {% elsif folderitem.type == "empty" %}
           <li><a title="{{folderitem.title}}" href="{{folderitem.url | remove: "/"}}">{{folderitem.title}}</a></li>
 
