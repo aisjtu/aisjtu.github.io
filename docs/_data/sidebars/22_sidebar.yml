@@ -92,12 +92,9 @@ entries:
       output: web, pdf
 
   - title: 大二下课程
+    url: /mydoc_22.html
     output: web, pdf
     folderitems:
-    
-    - title: 大二下课程总览
-      url: /mydoc_22.html
-      output: web, pdf
     
     - title: AI2611 机器学习
       url: /22_AI2611.html

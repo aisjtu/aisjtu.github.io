@@ -92,12 +92,9 @@ entries:
       output: web, pdf
 
   - title: 大三下课程
+    url: /mydoc_32.html
     output: web, pdf
     folderitems:
-    
-    - title: 大三下课程总览
-      url: /mydoc_32.html
-      output: web, pdf
     
     - title: AI3610 类脑智能
       url: /32_AI3610.html

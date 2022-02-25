@@ -92,12 +92,9 @@ entries:
       output: web, pdf
 
   - title: 大三上课程
+    url: /mydoc_31.html
     output: web, pdf
     folderitems:
-    
-    - title: 大三上课程总览
-      url: /mydoc_31.html
-      output: web, pdf
     
     - title: AI3601 强化学习
       url: /31_AI3601.html
