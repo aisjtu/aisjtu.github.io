@@ -963,10 +963,12 @@ a.no_icon:after
 .results {
     margin: auto;
     text-align: left;
+    z-index: 1000;
 }
 .results ul {
     list-style-type: none;
     padding: 0;
+    z-index: 1001;
 }
 
 /* algolia */
