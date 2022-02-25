@@ -212,10 +212,12 @@ p.post-meta {font-size: 80%; color: #777;}
 
 ul#results-container a {
     background-color: transparent;
+    z-index: 2001;
 }
 
 ul#results-container a:hover {
     color: black;
+    z-index: 2002;
 }
 
 
