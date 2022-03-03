@@ -58,6 +58,6 @@ permalink: index.html
 
 感谢上海交通大学的所有相关任课教师及助教，因为我的课程笔记等资源或多或少总结自他们的课程及 slides.
 
-[@SylvanSun](https://github.com/SylvanSun) 为该网站提供了非常宝贵的建议，他是网站最早几位贡献者之一。
+[@SylvanSun](https://github.com/SylvanSun) 为该网站提供了非常宝贵的建议，并对部分课程内容进行了补充；[@Ailon-Island](https://github.com/Ailon-Island) 对网站结构等细节进行了大量的优化；他们是网站最早几位贡献者之一。
 
 最后特别感谢<a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.BNDS}}">高中母校</a>，让我能够沉静下心来以思考，在忙碌的寒假给了我动力、想法去实施这件有趣事情。
