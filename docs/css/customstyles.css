@@ -205,7 +205,7 @@ p.post-meta {font-size: 80%; color: #777;}
     top: 46.5px; /* if you change anything about the nav, you'll prob. need to reset the top and left values here.*/
     left: 20px;
     z-index: 2000;
-    width:230px;
+    width:238px;
     border-left: 1px solid #dedede;
 }
 
