@@ -99,14 +99,6 @@ entries:
     url: /mydoc_31.html
     output: web, pdf
     folderitems:
-    
-    - title: AI3601 强化学习
-      url: /31_AI3601.html
-      output: web, pdf
-    
-    - title: AI3602 数据挖掘
-      url: /31_AI3602.html
-      output: web, pdf
       
     - title: AI3604 计算机视觉
       url: /31_AI3604.html
@@ -140,14 +132,14 @@ entries:
       url: /31_CS3602.html
       output: web, pdf
     
-    - title: ICE3311 智能物联网
-      url: /31_ICE3311.html
-      output: web, pdf
-    
     - title: CS3604 软件工程与项目管理
       url: /31_CS3604.html
       output: web, pdf
     
     - title: MST3601 人工智能芯片导论
       url: /31_MST3601.html
+      output: web, pdf
+      
+    - title: AI3610 类脑智能
+      url: /31_AI3610.html.html
       output: web, pdf

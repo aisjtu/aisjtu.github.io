@@ -100,8 +100,12 @@ entries:
     output: web, pdf
     folderitems:
     
-    - title: AI3610 类脑智能
-      url: /32_AI3610.html
+    - title: AI3601 强化学习
+      url: /32_AI3601.html
+      output: web, pdf
+    
+    - title: AI3602 数据挖掘
+      url: /32_AI3602.html
       output: web, pdf
     
     - title: AI3611 智能感知认知实践
@@ -134,4 +138,12 @@ entries:
     
     - title: AU3601 机器人综合实践
       url: /32_AU3601.html
+      output: web, pdf
+      
+    - title: AI3618 虚拟现实
+      url: /32_AI3618.html
+      output: web, pdf
+
+    - title: AU3601 计算机网络
+      url: /32_CS3611.html
       output: web, pdf
