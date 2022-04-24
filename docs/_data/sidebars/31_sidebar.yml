@@ -141,5 +141,5 @@ entries:
       output: web, pdf
       
     - title: AI3610 类脑智能
-      url: /31_AI3610.html.html
+      url: /31_AI3610.html
       output: web, pdf
