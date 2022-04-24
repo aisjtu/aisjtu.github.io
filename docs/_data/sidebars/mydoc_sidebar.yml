@@ -24,7 +24,7 @@ entries:
     folderitems:
 
     - title: 首页
-      url: /index.html
+      url: https://aisjtu.github.io
       output: web, pdf
       type: homepage
 
