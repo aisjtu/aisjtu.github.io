@@ -20,6 +20,7 @@ Resource 文件夹中包含了网址中所涉及的笔记等资源，你可以�
 - 我在路径 `docs/_includes` 中加入了 `pdf.html` 文件，调用该文件可以实现网页嵌入。
 - 同上一条，我加入了 `download.html` 文件，可以简洁的插入“下载 Button”.
 - 原模版中使用 [Commento](https://commento.io) 进行评论，我将其更改为了免费开源的的 [gitalk](https://github.com/gitalk/gitalk/)。换言之，我在 `docs/_includes` 中加入了 `gitalk.html` 文件。
+- 在 [@Bluxie](https://github.com/Bluixe?tab=repositories) 的帮助下，我优化了手机版 (@media) 下的搜索框，修改了`customstyles.css` 文件中 “navbar breakpoint so that it converts to hamburger earlier” 部分。
 
 该模版的版权：Google LLC
 
