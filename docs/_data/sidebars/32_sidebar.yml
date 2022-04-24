@@ -19,17 +19,21 @@ entries:
       url: /mydoc_details.html
       output: web, pdf
       
+    - title: 自学指南
+      url: /mydoc_learning.html
+      output: web, pdf
+      
     - title: Pull Request 贡献指南
       url: /mydoc_format_req.html
       output: web, pdf
       
-    - title: 更新日志
-      url: /mydoc_updates.html
+    - title: 结语
+      url: /mydoc_epilog.html
       output: web
-
-#    - title: FAQ
-#      url: /mydoc_faq.html
-#      output: web
+      
+    - title: FAQ
+      url: /mydoc_faq.html
+      output: web
             
 #    - title: 我的理念
 #      url: /mydoc_my_notions.html
