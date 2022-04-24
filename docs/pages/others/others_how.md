@@ -10,6 +10,8 @@ folder: mydoc
 <p align="right">—— Freebird Games《影子工厂》</p>
 {{site.data.alerts.end}}
 
+更多信息可见我的 Github repository：[Vim-LaTeX-Configuration](https://github.com/anyeZHY/Vim-LaTeX-Configuration).
+
 ## 合理的文件树
 
 ```
