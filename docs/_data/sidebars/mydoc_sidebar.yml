@@ -24,7 +24,7 @@ entries:
     folderitems:
 
     - title: 首页
-      url: /
+      url: 
       output: web, pdf
       type: homepage
 
