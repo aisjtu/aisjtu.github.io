@@ -2,7 +2,7 @@
 title: "Homepage"
 keywords: homepage
 sidebar: mydoc_sidebar
-permalink: https://aisjtu.icu
+permalink: index.html
 ---
 
 {{site.data.alerts.callout_primary}}
