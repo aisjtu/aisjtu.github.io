@@ -121,7 +121,7 @@ entries:
       output: web, pdf
     
     - title: EST2502 模拟电子技术
-      url: /21_-EST2502.html
+      url: /21_EST2502.html
       output: web, pdf
     
     - title: PHY1222 大学物理实验（2）
