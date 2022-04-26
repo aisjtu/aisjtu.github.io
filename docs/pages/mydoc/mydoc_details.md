@@ -18,7 +18,8 @@ folder: mydoc
 
 - 该网站右上角位置支持基于课程号、课程中文名称的**搜索**，不支持内容搜索。
 - 在每学期课程总览表格支持**排序**、**搜索**、**折叠**等相关功能，你可以快速筛查出哪些课程有内容，哪些课程有 Lecture Notes 等资源。
-- 每个页面最下方都设有讨论区，然而不支持匿名。
+- 你可以点击上方按钮「Nav」以取消或打开导航栏。
+- 每个页面最下方都设有讨论区，然而不支持匿名评论。
 - 该项目 Repo 的 [Resource](https://github.com/aisjtu/aisjtu.github.io/tree/gh-pages/Resource) 目录下包含着所有资源，你可以直接查看并下载它们。
 - 你可以在 [FAQ](mydoc_faq.html) 中查找常见问题解答。
 
@@ -30,7 +31,7 @@ folder: mydoc
 
 因此，该网站每一页都会有**引用**以启发读者。此外，我致力于作出更直观、更专注内容的 **Lecture Notes**, 在完成后我会将其全部开源并放于该网站之中。
 
-或许你会察觉到我在不同时间所作的 Lecture Notes 的风格变化，它们一直在「**无限进步**」[^1]。**目前 (2022.2.19)**，我正在制作量子力学及机器学习的 Lecture Notes. 风格如下 [[全屏预览](Rsr_pdf/IQM.pdf)]：(仅用作展示)
+或许你会察觉到我在不同时间所作的 Lecture Notes 的风格变化，它们一直在「**无限进步**」[^1]。**目前 (2022.2.19)**，我正在制作量子力学及机器学习的 Lecture Notes. 风格如下 [[机器学习 Lecture Notes 全屏预览](Rsr_pdf/ML.pdf)]：(仅用作展示)
 
 {% include pdf.html src="https://aisjtu.github.io/Rsr_pdf/IQM.pdf" %}
 
