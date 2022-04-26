@@ -22,10 +22,10 @@ folder: mydoc
 
 需要进行如下几个步骤：
 
-1. 在`Resource/useful_files/`中找到 Markdown 格式的初始模版，在其基础上建立你的课程评价。
-2. 将上述 Markdown 文件置于`docs/pages/`的文件夹中，规则：大一上课程--11，大一下课程--12，大二上课程--21，以此类推。
-3. 在`docs/_data/sidebars`找到对应的yml文件（规则同2），在其中添加该课程。
-4. 在`docs/pages/mydoc/`中找到对应的“课程总览”文件（名称为`mydoc_ij.md`，规则同2），在表格中添加该课程。
+1. 在 `Resource/useful_files/` 中找到 Markdown 格式的初始模版，在其基础上建立你的课程评价。
+2. 将上述 Markdown 文件置于 `docs/pages/` 的文件夹中，规则：大一上课程--11，大一下课程--12，大二上课程--21，以此类推。
+3. 在 `docs/_data/sidebars` 找到对应的yml文件（规则同2），在其中添加该课程。
+4. 在 `docs/pages/mydoc/` 中找到对应的“课程总览”文件（名称为 `mydoc_ij.md`，规则同2），在表格中添加该课程。
 
 步骤较为繁琐，如有问题可以与我联系。
 
@@ -48,13 +48,13 @@ folder: mydoc
 
 同时基于一些基本的html知识，我也会在本小节中给出一些**额外的拓展功能的实现方法**。
 
-当你遇到问题时，我推荐你点开本页的 “Edit me” 直接查看其源代码格式, which is **Intriguing**.
+当你遇到问题时，我推荐你点开本页的「Edit me」直接查看其源代码格式, which is **Intriguing**.
 
 Remark: the References Part may be **practical**.
 
 ### 预览PDF文件[^1]
 
-1. 将文件添加至 `/docs/Rsr_pdf/文件夹/文件名.pdf` 中。此处我们假设文件夹为“21”，文件名是“线性优化凸优化”。
+1. 将文件添加至 `/docs/Rsr_pdf/文件夹/文件名.pdf` 中。此处我们假设文件夹为「21」，文件名是「线性优化凸优化」。
 1. 在 Markdown 文件中的对应位置添加如下代码：你可以调节 height 以控制高度。
 
 
@@ -68,7 +68,7 @@ Remark: the References Part may be **practical**.
 
 ### 添加下载按钮
 
-假设你的下载链接为 “https://github.com/aisjtu/path/file.pdf” ，则代码为：
+假设你的下载链接为「https://github.com/aisjtu/path/file.pdf」，则代码为：
 
 ```html
 {% raw %}{% include download.html href="https://github.com/aisjtu/path/file.pdf" type="PDF"%}{% endraw %}

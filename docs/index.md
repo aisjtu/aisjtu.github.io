@@ -12,9 +12,9 @@ permalink: index.html
 
 ## Introduction（关于本站）
 
-上海交通大学人工智能专业设立于2019年，“专业之新”导致了培养计划较为独特。
+上海交通大学人工智能专业设立于2019年，「专业之新」导致了培养计划较为独特。
 
-而我（该网站的创建者，一位来自20级 AI 专业的学生）恰巧是**教育领域**上的“完美主义者”。意识到是时没有一个平台能够帮助AI专业学生交流课程、分享学习资料，我决定将我的**课程评价**、**课程笔记**以及**复习笔记**公开分享于此。
+而我（该网站的创建者，一位来自20级 AI 专业的学生）恰巧是**教育领域**上的「完美主义者」。意识到是时没有一个平台能够帮助AI专业学生交流课程、分享学习资料，我决定将我的**课程评价**、**课程笔记**以及**复习笔记**公开分享于此。
 
 因此，我希望该网站能够为今后人工智能专业的学生提供丰富的课程信息，比如：
 
@@ -28,7 +28,7 @@ permalink: index.html
 ### Important Information
 
 1. 目前 (大二下学期) 我的笔记风格：[[量子力学](Rsr_pdf/IQM.pdf)] [[机器学习](Rsr_pdf/ML.pdf)].
-1. 该网站**不仅仅**收录了我以 “.pdf” 为格式的笔记 (Lecture Notes)，同时还有与之对应的 “.tex” **源文件**、基于 [Notability](https://notability.com/zh-Hans) 的 “.note” 格式**源文件**或者基于 [GoodNotes](https://www.goodnotes.com) 的 “.goodnotes” 格式**源文件**。这些源文件可直接基于所支持软件进行修改，旨在为大家提供更“直观”、更“友好”的资源。
+1. 该网站**不仅仅**收录了我以「.pdf」为格式的笔记 (Lecture Notes)，同时还有与之对应的「.tex」**源文件**、基于 [Notability](https://notability.com/zh-Hans) 的「.note」 格式**源文件**或者基于 [GoodNotes](https://www.goodnotes.com) 的「.goodnotes」格式**源文件**。这些源文件可直接基于所支持软件进行修改，旨在为大家提供更「直观」、更“友好”的资源。
 2. 该网站有什么？如何更高效地使用该网站？我的理念及学习方法？网站的未来计划？可见：[网站详细介绍](mydoc_details.html)
 
 
@@ -45,7 +45,7 @@ permalink: index.html
 
 - 进入本站的 [Github 仓库](https://github.com/aisjtu/aisjtu.github.io)，以 Pull Request 的方式，提交你对本站内容的改进。
 - **点击**页面中 *Table of Contents* 下方 *Edit me* 按钮直接对本页定位，进行更快捷的编辑。
-- 直接与我 [@anyeZHY](https://github.com/anyeZHY) 联系，我的 **Email: anye[underscore]zhen[at]sjtu[dot]edu[dot]cn**（可以点击页面上方*“我的邮箱”*键快速发送邮件）。
+- 直接与我 [@anyeZHY](https://github.com/anyeZHY) 联系，我的 **Email: anye[underscore]zhen[at]sjtu[dot]edu[dot]cn**（可以点击页面上方「*我的邮箱*」键快速发送邮件）。
 
 怎样参与贡献？如何使用该模版？文档格式要求是什么？详见：[Pull Request 贡献指南](mydoc_format_req.html)。
 
@@ -56,7 +56,7 @@ permalink: index.html
 
 建立该网站的灵感来自于上海交通大学 IEEE 专业课程网站：[ieee.icu](https://ieee.icu/#/).
 
-该网站基于 [GitHub Pages](https://pages.github.com) 建立，同时使用 [Jekyll](https://jekyllrb.com) 将 “.md” 文件渲染生成对应的 HTML. 
+该网站基于 [GitHub Pages](https://pages.github.com) 建立，同时使用 [Jekyll](https://jekyllrb.com) 将 「.md」 文件渲染生成对应的 HTML. 
 
 <span class="label label-danger">Particularly</span> 该模版来源于 Tom Johnson *et al.* 制作的 [documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll).
 
