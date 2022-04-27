@@ -1,5 +1,5 @@
 ---
-title: Vim-TeX 配置
+title: Vim 配置
 sidebar: mydoc_sidebar
 permalink: others_vim.html
 folder: mydoc

@@ -1,5 +1,5 @@
 ---
-title: 我是如何做笔记的
+title: TeX 笔记指南
 sidebar: mydoc_sidebar
 permalink: others_how.html
 folder: mydoc
