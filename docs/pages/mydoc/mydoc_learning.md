@@ -47,9 +47,9 @@ folder: mydoc
 
 - 这本书更偏 Learning Theory，是我接触 Machine Learning 的第一本书。
 
-- https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/
+- [https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/)
 
-### STATS214 / CS229M: Machine Learning Theory, Stanford University 
+### STATS214 / CS229M: Machine Learning Theory, Stanford University
 
 - 机器学习进阶课程，极其硬核，我仅用其作「陶冶情操」。
 - Course website: [https://web.stanford.edu/class/stats214/](https://web.stanford.edu/class/stats214/)
@@ -76,7 +76,7 @@ folder: mydoc
 ### 15-458: Discrete Differential Geometry, Carnegie Mellon University
 
 - 离散微分几何学，可以作为计算机图形学进阶数学知识学习。
-- Course website: https://csd.cmu.edu/course-profiles/15-458-Discrete-Differential-Geometry](https://csd.cmu.edu/course-profiles/15-458-Discrete-Differential-Geometry)
+- Course website: [https://csd.cmu.edu/course-profiles/15-458-Discrete-Differential-Geometry](https://csd.cmu.edu/course-profiles/15-458-Discrete-Differential-Geometry)
 
 
 {% include links.html %}
