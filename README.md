@@ -1,7 +1,7 @@
 # aisjtu.github.io
 上海交通大学AI专业（本科）课程信息
 
-
+[![HitCount](https://hits.dwyl.com/aisjtu/aisjtu.github.io.svg?style=flat-square)](http://hits.dwyl.com/aisjtu/aisjtugithubio)[![GitHub contributors](https://img.shields.io/github/contributors-anon/aisjtu/aisjtu.github.io?style=flat-square&color=red)](https://gitHub.com/aisjtu/aisjtu.github.io/graphs/contributors/)[![GitHub contributors](https://img.shields.io/github/stars/aisjtu/aisjtu.github.io?style=flat-square&color=blue)](https://gitHub.com/aisjtu/aisjtu.github.io/stargazers)
 
 ## 简介
 
