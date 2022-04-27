@@ -40,7 +40,7 @@ folder: mydoc
 
 ### CS 189: Introduction to Machine Learning, UC Berkeley
 
-- 这门课的 Lecture Notes 内容亦很丰富，可以与 CS229 相结合实用。
+- 这门课的 Lecture Notes 内容亦很丰富，可以与 CS229 相结合食用。
 - Course website: [https://www.eecs189.org](https://www.eecs189.org)
 
 ### *Understanding Machine Learning*, Cambridge University
