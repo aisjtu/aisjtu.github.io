@@ -104,43 +104,47 @@ entries:
     output: web, pdf
     folderitems:
     
-    - title: MA270 线性代数
-      url: /11_MA270.html
+    - title: MATH1205 线性代数
+      url: /11_MATH1205.html
       output: web, pdf
       
     - title: MATH1205H 线性代数（荣誉）
       url: /11_MATH1025H.html
       output: web, pdf
     
-    - title: MA267 数学分析（荣誉）I
-      url: /11_MA267.html
+    - title: MATH1607H 数学分析（荣誉）I
+      url: /11_MATH1607H.html
       output: web, pdf
     
-    - title: MA208 离散数学（A类）
-      url: /11_MA208.html
+    - title: MATH1203 数学分析 I
+      url: /11_MATH1203.html
+      output: web, pdf
+    
+    - title: CS1601 离散数学（A类）
+      url: /11_CS1601.html
       output: web, pdf
       
     - title: CS1581H 程序设计（荣誉）
       url: /11_CS1581H.html
       output: web, pdf
     
-    - title: AI003 人工智能思维与伦理
-      url: /11_AI003.html
+    - title: AI1601 人工智能思维与伦理
+      url: /11_AI1601.html
       output: web, pdf
     
-    - title: EN062 大学英语（2）
-      url: /11_EN062.html
+    - title: FL2201 大学英语（2）
+      url: /11_FL2201.html
       output: web, pdf
     
-    - title: PS103 大学生心理健康
-      url: /11_PS103.html
+    - title: PSY1201 大学生心理健康
+      url: /11_PSY1201.html
       output: web, pdf
     
-    - title: TH000 思想道德修养与法律基础
-      url: /11_TH000.html
+    - title: MARX1208 思想道德修养与法律基础
+      url: /11_MARX1208.html
       output: web, pdf
     
-    - title: TH015 军事理论
-      url: /11_TH015.html
+    - title: MIL1201 军事理论
+      url: /11_MIL1201.html
       output: web, pdf
 # Copyright 2021 Google LLC
