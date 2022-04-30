@@ -107,6 +107,10 @@ entries:
     - title: MA270 线性代数
       url: /11_MA270.html
       output: web, pdf
+      
+    - title: MATH1205H 线性代数（荣誉）
+      url: /11_MATH1025H.html
+      output: web, pdf
     
     - title: MA267 数学分析（荣誉）I
       url: /11_MA267.html
