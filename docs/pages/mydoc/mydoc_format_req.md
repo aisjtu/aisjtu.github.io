@@ -54,7 +54,7 @@ Remark: the References Part may be **practical**.
 
 ### 预览PDF文件[^1]
 
-1. 将文件添加至 `/docs/Rsr_pdf/文件夹/文件名.pdf` 中。此处我们假设文件夹为「21」，文件名是「线性优化凸优化」。
+1. 将文件添加至 `/docs/Rsr_pdf` 中。此处我们假设文件是`IQM.pdf`。
 1. 在 Markdown 文件中的对应位置添加如下代码：你可以调节 height 以控制高度。
 
 
