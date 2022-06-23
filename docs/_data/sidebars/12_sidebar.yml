@@ -143,4 +143,8 @@ entries:
     - title: MARX1206 新时代社会认知实践
       url: /12_MARX1206.html
       output: web, pdf
+
+    - title: CS1652 数据结构（荣誉）
+      url: /12_CS0501H.html
+      output: web, pdf
 # Copyright 2021 Google LLC

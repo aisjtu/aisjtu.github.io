@@ -34,6 +34,7 @@ folder: mydoc
 | [中国近现代史纲要](12_MARX1202.html)          | MARX1202 |      否      |        无        |        |
 | [新时代社会认知实践](12_MARX1206.html)        | MARX1206 |      否      |        无        |        |
 | [大学物理实验（1）](12_PHY1221.html)          | PHY1221  |      是      |        有        | anye |
+| [数据结构（荣誉）](12_CS0501H.html)      | CS0501H |      是      |      有      | xxyQwQ  |
 
 <div class="datatable-end"></div>
 
