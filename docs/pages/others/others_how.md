@@ -1,5 +1,5 @@
 ---
-title: TeX 笔记指南
+title: TeX 使用指南
 sidebar: mydoc_sidebar
 permalink: others_how.html
 folder: mydoc
@@ -10,9 +10,25 @@ folder: mydoc
 <p align="right">—— Freebird Games《影子工厂》</p>
 {{site.data.alerts.end}}
 
-更多信息可见我的 Github repository：[Vim-LaTeX-Configuration](https://github.com/anyeZHY/Vim-LaTeX-Configuration).
+## LaTeX 资源库
 
-## 合理的文件树
+强烈建议在**大一上**时学会且在大一下熟练掌握 LaTeX 的使用，以下是我常用的一些资源及网站。
+
+- Overleaf 在线编辑器：[https://overleaf.com](https://overleaf.com) 以及上海交通大学 TeX 在线编辑器：[https://latex.sjtu.edu.cn](https://latex.sjtu.edu.cn)
+- LaTeX 编辑部：[https://www.latexstudio.net/hulatex/index.htm](https://www.latexstudio.net/hulatex/index.htm)，非常实用的中文教程，其中收录了大量的 package 及其使用说明。
+
+- 「physics」宏包，极大化简公式环境，其源文件：[document](https://mirrors.tuna.tsinghua.edu.cn/CTAN/macros/latex/contrib/physics/physics.pdf)
+- 常用的 LaTeX Mathematical Symbols：[https://www.caam.rice.edu/~heinken/latex/symbols.pdf](https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
+- Comprehensive TeX Archive Network 官网：[https://ctan.org](https://ctan.org)
+
+我使用 [Vim](others_vim.html) 作 TeX 文件的编辑器，参考了如下教程：
+
+- Gilles Castel's Blog: [https://castel.dev/post/lecture-notes-1/](https://castel.dev/post/lecture-notes-1/)
+- xiaoronglv 博客：[https://ruby-china.org/topics/25023](https://ruby-china.org/topics/25023)
+
+注：Vim+TeX 的使用会让你的写作效率翻倍，但是环境配置的难度稍大，大二上整个学期我都在对此作优化，你可以参考我的 GitHub Repository：[Vim-LaTeX-Configuration](https://github.com/anyeZHY/Vim-LaTeX-Configuration)
+
+## 建立合理的文件树
 
 ```
 Lecture-A
@@ -66,10 +82,7 @@ Lecture Notes 的 TeX 文件：
 \input{Notes/2}
 
 \end{document}
-
 ```
-
-
 
 ## preamble.tex
 
@@ -160,12 +173,14 @@ Lecture Notes 的 TeX 文件：
 
 % \begin{document}
 % \title{<++>}
-\author{Haoyu Zhen}
+\author{Name}
 % \maketitle
 % \end{document}
 ```
 
 ## ln_preamble.tex
+
+该文件用于配制定理、页脚页眉等环境，通常用于 Leture Notes 的文件中。
 
 ```latex
 \usepackage{fancyhdr}
@@ -254,7 +269,5 @@ Lecture Notes 的 TeX 文件：
 \declaretheorem[numberwithin=section, style=thmgreenline, name={\color{OliveGreen}Remark}]{remark}
 \declaretheorem[numbered=no,style=thmblueline, name={\color{NavyBlue!70}Proof},qed=$\square$]{prf}
 ```
-
-
 
 {% include links.html %}

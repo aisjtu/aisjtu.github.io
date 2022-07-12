@@ -1,5 +1,5 @@
 <h1 align="center">
-AI-SJTU Course
+AI-SJTU Courses Website
 </h1>
 <p align="center">
 上海交通大学 AI 专业（本科）课程信息网站
