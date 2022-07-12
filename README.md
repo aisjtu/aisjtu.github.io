@@ -1,15 +1,28 @@
-# aisjtu.github.io
-上海交通大学AI专业（本科）课程信息
-
-[![HitCount](https://hits.dwyl.com/aisjtu/aisjtu.github.io.svg?style=flat-square)](http://hits.dwyl.com/aisjtu/aisjtugithubio) [![GitHub contributors](https://img.shields.io/github/contributors-anon/aisjtu/aisjtu.github.io?style=flat-square&color=red)](https://gitHub.com/aisjtu/aisjtu.github.io/graphs/contributors/) [![GitHub contributors](https://img.shields.io/github/stars/aisjtu/aisjtu.github.io?style=flat-square&color=blue)](https://gitHub.com/aisjtu/aisjtu.github.io/stargazers)
+<h1 align="center">
+AI-SJTU Course
+</h1>
+<p align="center">
+上海交通大学 AI 专业（本科）课程信息网站
+</p>
+<p align="center">
+  <a href='https://gitHub.com/aisjtu/aisjtu.github.io/graphs/contributors/'>
+    <img src='https://img.shields.io/github/contributors-anon/aisjtu/aisjtu.github.io?style=flat&color=red' alt='Contributors'>
+  </a>
+  <a href="https://gitHub.com/aisjtu/aisjtu.github.io/stargazers">
+    <img alt="Stars" src="https://img.shields.io/github/stars/aisjtu/aisjtu.github.io?style=flat&color=blue">
+  </a>
+  <a href="http://hits.dwyl.com/aisjtu/aisjtugithubio">
+    <img alt="Hits" src="https://hits.dwyl.com/aisjtu/aisjtu.github.io.svg?style=flat">
+  </a>
+</p>
 
 ## 简介
 
-更多信息可见：https://aisjtu.github.io
+更多信息可见：https://aisjtu.github.io 或 [https://aisjtu.icu](https://aisjtu.icu)
 
-Resource 文件夹中包含了网址中所涉及的笔记等资源，你可以直接在此处浏览或下载。
+`Resource` 文件夹中包含了网址中所涉及的笔记等资源，你可以直接在此处浏览或下载。
 
-此外 docs 文件夹用于网站生成与渲染，方式是 GitHub 内置的 Jekyll 生成器。
+此外 `docs` 文件夹用于网站生成与渲染，方式是 GitHub 内置的 Jekyll 生成器。
 
 ## 特别说明
 
@@ -22,7 +35,7 @@ Resource 文件夹中包含了网址中所涉及的笔记等资源，你可以�
 - 原模版中使用 [Commento](https://commento.io) 进行评论，我将其更改为了免费开源的的 [gitalk](https://github.com/gitalk/gitalk/)。换言之，我在 `docs/_includes` 中加入了 `gitalk.html` 文件。
 - 在 [@Bluxie](https://github.com/Bluixe?tab=repositories) 的帮助下，我优化了手机版 (@media) 下的搜索框，修改了`customstyles.css` 文件中 “navbar breakpoint so that it converts to hamburger earlier” 部分。
 
-该模版的版权：Google LLC
+该模版的版权：**Google LLC**
 
 网站中的部分表格基于 [jQuery DataTables](https://www.datatables.net) 所做，支持搜索、排序和折叠等显示。
 
