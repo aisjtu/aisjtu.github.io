@@ -24,6 +24,8 @@ AI-SJTU Courses Website
 
 此外 `docs` 文件夹用于网站生成与渲染，方式是 GitHub 内置的 Jekyll 生成器。
 
+本地编译或 debug：`cd docs` + `bash run_server.sh`
+
 ## 特别说明
 
 我使用了 Tom Johnson *et al.* 的 [documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll) 模版进行网页的制作，并对其作了如下的修改：

@@ -31,7 +31,7 @@ folder: mydoc
 
 ### 如何判断网络正常渲染？
 
-可以检查当前 [Environments](https://github.com/aisjtu/aisjtu.github.io/deployments) 状态是否为 Active, 若为 Failure 则说明 Jekyll 渲染失败。
+可以检查当前 [Environments](https://github.com/aisjtu/aisjtu.github.io/deployments) 状态是否为 Active, 若为 Failure 则说明 Jekyll 渲染失败；或者选择本地 debug：在 `docs` 目录下运行 `bash run_server.sh` 指令，本地将生成 `_site` 文件夹（已被 git ignore），Terminal 中将提示 `Server address: http://127.0.0.1:3000`，打开浏览器并输入该链接即可。
 
 ### 一些不推荐的做法
 
@@ -77,6 +77,12 @@ Remark: the References Part may be **practical**.
 效果如下：
 
 {% include download.html href="https://github.com/aisjtu/path/file.pdf" type="PDF"%}
+
+### 数学公式渲染
+
+我使用了 [KaTeX](https://katex.org) 进行渲染，你可以用在 Markdown 文件中使用 `$ $`、`$$ $$`、`\\( \\)`和`\\[ \\]` 插入数学公式。例如`$$R_{\mu\nu}-\frac{1}{2}g_{\mu\nu}R=8\pi GT_{\mu\nu}$$`：
+
+$$R_{\mu\nu}-\frac{1}{2}g_{\mu\nu}R=8\pi GT_{\mu\nu}$$
 
 ### 添加色彩标签[^2]
 
