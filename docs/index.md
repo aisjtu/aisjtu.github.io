@@ -25,10 +25,10 @@ permalink: index.html
 
 ### Important Information
 
-1. 部分 (大二下学期) 笔记风格：[[量子力学](Rsr_pdf/IQM.pdf)] [[机器学习](Rsr_pdf/ML.pdf)].
-2. 课外课程自学推荐：[自学指南](mydoc_learning.html).
+1. 部分 (大二下学期) 笔记风格：[[量子力学](Rsr_pdf/IQM.pdf)] [[机器学习](Rsr_pdf/ML.pdf)]。
+2. 课外课程自学推荐：[自学指南](mydoc_learning.html)；常用网站：[资源汇总](mydoc_web.html)。
 3. 该网站**不仅仅**收录了以「.pdf」为格式的笔记 (Lecture Notes)，同时还有与之对应的「.tex」**源文件**、基于 [Notability](https://notability.com/zh-Hans) 的「.note」 格式**源文件**或者基于 [GoodNotes](https://www.goodnotes.com) 的「.goodnotes」格式**源文件**。这些源文件可直接基于所支持软件进行修改，旨在为大家提供更「直观」、更“友好”的资源。
-4. 该网站有什么？如何更高效地使用该网站？网站的未来计划？可见：[网站详细介绍](mydoc_details.html).
+4. 该网站有什么？如何更高效地使用该网站？网站的未来计划？可见：[网站详细介绍](mydoc_details.html)。
 
 
 

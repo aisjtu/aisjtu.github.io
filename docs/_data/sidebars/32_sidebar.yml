@@ -27,17 +27,14 @@ entries:
       url: /mydoc_format_req.html
       output: web, pdf
       
+    - title: 资源汇总
+      url: /mydoc_web.html
+      output: web, pdf
+      
     - title: 结语
       url: /mydoc_epilog.html
       output: web
       
-    - title: FAQ
-      url: /mydoc_faq.html
-      output: web
-            
-#    - title: 我的理念
-#      url: /mydoc_my_notions.html
-#      output: web, pdf
 
   - title: 大一课程
     output: web, pdf
@@ -87,7 +84,7 @@ entries:
     output: web,pdf
     folderitems:
         
-    - title: TeX 笔记指南
+    - title: TeX 使用指南
       url: /others_how.html
       output: web, pdf
         
