@@ -30,6 +30,7 @@ folder: mydoc
 
 - YBRua/CourseNotes：[https://github.com/YBRua/CourseNotes](https://csmsapp.github.io)
 - SylvanSun/Course-Assignments-AISJTU：[https://github.com/SylvanSun/Course-Assignments-AISJTU](https://csmsapp.github.io)
+- GihhArwtw/SJTU_AI：[https://github.com/GihhArwtw/SJTU_AI](https://github.com/GihhArwtw/SJTU_AI)
 - anyeZHY/SJTU-Course-Stack：[https://github.com/anyeZHY/SJTU-Course-Stack](https://github.com/anyeZHY/SJTU-Course-Stack)
 - Galaxies99/SJTU-course-notes（非 AI 专业）：[https://github.com/Galaxies99/SJTU-course-notes](https://github.com/Galaxies99/SJTU-course-notes)
 - YanjieZe/SJTU_Course_Notes（非 AI 专业）：[https://github.com/YanjieZe/SJTU_Course_Notes](https://github.com/YanjieZe/SJTU_Course_Notes)
