@@ -32,10 +32,10 @@ folder: mydoc
 | [数学分析（荣誉）I](11_MATH1607H.html)      | MATH1607H | 是 | 有 | anye |
 | [数学分析 I](11_MATH1203.html) | MATH1203 | 是 | 有 | GihhArwtw |
 | [离散数学（A类）](11_CS1601.html)        | CS1601 |      是       |       有        |  sylvan + GihhArwtw  |
-| [程序设计（荣誉）](11_CS1581H.html)     | CS1581H | 否 | 无 |        |
-| [人工智能思维与伦理](11_AI1601.html)     | AI1601 | 否 | 无 |        |
+| [程序设计（荣誉）](11_CS1581H.html)     | CS1581H | 是 | 有 |  GihhArwtw      |
+| [人工智能思维与伦理](11_AI1601.html)     | AI1601 | 是 | 有 |   GihhArwtw     |
 | [大学英语（2）](11_FL2201.html)    | FL2201 |      否      |        无        |        |
-| [大学生心理健康](11_PSY1201.html)         | PSY1201 |      否      |        无        |        |
+| [大学生心理健康](11_PSY1201.html)         | PSY1201 |      是      |        有        | GihhArwtw       |
 | [思想道德修养与法律基础](11_MARX1208.html) | MARX1208 |      否      |        无        |        |
 | [军事理论](11_MIL1201.html)        | MIL1201 |      否      |        无        |        |
 
