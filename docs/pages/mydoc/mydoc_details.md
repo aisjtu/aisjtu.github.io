@@ -45,7 +45,7 @@ folder: mydoc
 
 1. 我希望有更多的同学能够参与网站的建设与维护当中，在未来该网站的叙述人称不应当是「我」而是「**我们**」。
 2. 更新、优化低年级时我的 Lecture Notes, 将部分手写内容翻译至 pdf 文件。
-3. 我会 *争取* 在期末前将**该学期**的 Lecture Notes 上传至本网站。
+3. 将网站风格迁移至 [MkDocs](https://squidfunk.github.io/mkdocs-material/) 框架下。
 
 
 

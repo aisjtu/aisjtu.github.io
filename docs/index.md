@@ -12,6 +12,13 @@ permalink: index.html
 
 ## Introduction（关于本站）
 
+<p align="left">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Faisjtu.icu&label=VISITORS%20(FROM%202024.04.01)&labelColor=%23555555&countColor=%232ccce4&style=flat"/>
+  <img src='https://img.shields.io/github/contributors-anon/aisjtu/aisjtu.github.io?style=social&color=red&logo=github' alt='Contributors'>
+  <img alt="Stars" src="https://img.shields.io/github/stars/aisjtu/aisjtu.github.io?style=social&color=blue">
+</p>
+
+
 上海交通大学人工智能专业设立于 2019 年，「专业之新」导致了培养计划较为独特。
 
 因此，该网站旨在为今后人工智能专业的学生提供丰富的课程信息，比如：
